@@ -11,10 +11,11 @@
   background: rgb(241, 235, 223);
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  gap: 10px;
+  gap: 20px;
+  padding: 30px;
 }
 
 .card {
   border: 1px solid black;
-  margin: 20px;
+  height: 300px;
 }
