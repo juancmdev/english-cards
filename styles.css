@@ -6,16 +6,16 @@
 
 .container {
   width: 70vw;
-  height: 100vh;
+  min-height: 100dvh;
   margin: 10px auto;
   background: rgb(241, 235, 223);
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(4, 1fr);
   gap: 20px;
   padding: 30px;
 }
 
 .card {
   border: 1px solid black;
-  height: 300px;
+  height: 350px;
 }
