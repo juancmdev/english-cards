@@ -24,6 +24,5 @@
 }
 
 .rotate {
-    -webkit-transform: rotateX(90deg) scale(2);;
-    transform: rotateX(90deg) scale(2);
+    transform: rotateY(360deg);
 }
