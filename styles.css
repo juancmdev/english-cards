@@ -16,6 +16,14 @@
 }
 
 .card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   border: 1px solid black;
   height: 350px;
+}
+
+.rotate {
+    -webkit-transform: rotateX(90deg) scale(2);;
+    transform: rotateX(90deg) scale(2);
 }
