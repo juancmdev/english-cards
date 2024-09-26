@@ -13,17 +13,35 @@
   grid-template-columns: repeat(4, 1fr);
   gap: 20px;
   padding: 30px;
-  perspective: 1000px;
 }
 
 .card {
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  perspective: 1000px;
   border: 1px solid black;
+  width: 350px;
   height: 350px;
 }
 
-.rotate {
-    transform: rotateY(360deg);
+.front{
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
 }
+
+.front {
+  transform: rotateY(0deg);
+}
+
+/* .back {
+  transform: rotateY(180deg);
+}*/
+
+.front:hover {
+  transform: rotateY(180deg);
+}
+
+/*
+.back:hover {
+  transform: rotateY(0deg);
+} */
