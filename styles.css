@@ -6,8 +6,9 @@
 
 img {
   display: block;
-  max-width: 350px;
-  max-height: 350px;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
 }
 
 .container {
@@ -18,19 +19,20 @@ img {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   gap: 20px;
-  padding: 30px;
+  /* padding: 30px; */
 }
 
 .card {
   perspective: 1000px;
   border: 1px solid black;
+  width: 250px;
+  height: 250px;
+  overflow: hidden;
 }
 
 .front,
 .back {
   position: absolute;
-  width: 100%;
-  height: 100%;
   backface-visibility: hidden;
 }
 
