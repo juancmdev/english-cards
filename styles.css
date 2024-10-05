@@ -7,33 +7,35 @@
 img {
   display: block;
   width: 100%;
-  height: 100%;
   object-fit: cover;
 }
 
 .container {
-  width: 70vw;
-  min-height: 100dvh;
-  margin: 10px auto;
-  background: rgb(241, 235, 223);
+  width: 90%;
+  max-width: 1200px;
+  margin: 40px auto;
+  height: 100vh;
+
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  gap: 20px;
-  /* padding: 30px; */
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 40px;
+}
+
+.container img {
+  height: 100%;
 }
 
 .card {
   perspective: 1000px;
   border: 1px solid black;
-  width: 250px;
-  height: 250px;
-  overflow: hidden;
 }
 
 .front,
 .back {
   position: absolute;
   backface-visibility: hidden;
+  width: 100%;
+  height: 100%;
 }
 
 .front {
