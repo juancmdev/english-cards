@@ -2,6 +2,7 @@ export const data = [
   {
     img: "/imgs/monkey.jpg",
     back: "Monkey",
+    alt: "Monkey image",
   },
   {
     img: "/imgs/lion.jpg",
