@@ -21,6 +21,13 @@
   letter-spacing: 1.5px;
 }
 
+body {
+  background-image: url("/imgs/Gemini_Generated_Image_o1i35bo1i35bo1i3.jpg");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+
 h1 {
   text-align: center;
   padding: 30px;
@@ -28,6 +35,11 @@ h1 {
 
 h2 {
   text-align: center;
+}
+
+h3 {
+  text-align: center;
+  font-weight: 300;
 }
 
 a {
@@ -46,14 +58,19 @@ ul {
 }
 
 .container {
-  width: 90%;
-  max-width: 1200px;
+  width: 98%;
+  max-width: 1900px;
   margin: 40px auto;
-  height: 100vh;
+  min-height: 100vh;
+  border-radius: 20px;
+  padding: 40px;
+}
 
-  /* display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-  gap: 40px; */
+.container-body {
+  background: rgba(255, 255, 255, 0.5);
+  -webkit-backdrop-filter: blur(10px);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.25);
 }
 
 #lista,
@@ -118,4 +135,8 @@ ul {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+}
+
+footer {
+  padding: 30px 0 30px 0;
 }
