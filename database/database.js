@@ -1,10 +1,10 @@
 export const data = [
   {
-    img: "/src/images/monkey.jpg",
+    img: "/imgs/monkey.jpg",
     back: "Monkey",
   },
   {
-    img: "/src/images/lion.jpg",
+    img: "/imgs/lion.jpg",
     back: "Lion",
   },
 ];

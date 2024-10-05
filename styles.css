@@ -7,7 +7,7 @@
 img {
   display: block;
   width: 100%;
-  object-fit: cover;
+  object-fit: fill;
 }
 
 .container {
@@ -16,6 +16,12 @@ img {
   margin: 40px auto;
   height: 100vh;
 
+  /* display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 40px; */
+}
+
+#lista {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
   gap: 40px;
@@ -28,6 +34,7 @@ img {
 .card {
   perspective: 1000px;
   border: 1px solid black;
+  height: 350px;
 }
 
 .front,
