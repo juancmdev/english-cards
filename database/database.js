@@ -7,4 +7,36 @@ export const data = [
     img: "/imgs/lion.jpg",
     back: "Lion",
   },
+  {
+    img: "/imgs/monkey.jpg",
+    back: "Monkey",
+  },
+  {
+    img: "/imgs/lion.jpg",
+    back: "Lion",
+  },
+  {
+    img: "/imgs/monkey.jpg",
+    back: "Monkey",
+  },
+  {
+    img: "/imgs/lion.jpg",
+    back: "Lion",
+  },
+  {
+    img: "/imgs/monkey.jpg",
+    back: "Monkey",
+  },
+  {
+    img: "/imgs/lion.jpg",
+    back: "Lion",
+  },
+  {
+    img: "/imgs/monkey.jpg",
+    back: "Monkey",
+  },
+  {
+    img: "/imgs/lion.jpg",
+    back: "Lion",
+  },
 ];
