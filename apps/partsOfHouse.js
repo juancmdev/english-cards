@@ -1,11 +1,11 @@
-import { data } from "./database/database.js";
+import { partsOfHouse } from "../database/database.js";
 
-const lista = document.querySelector("#lista");
-const template = document.querySelector("#template").content;
+const lista = document.querySelector("#lista-partsOfHouse");
+const template = document.querySelector("#template-partsOfHouse").content;
 
 const fragment = document.createDocumentFragment();
 
-data.forEach((item) => {
+partsOfHouse.forEach((item) => {
   //   template.querySelector(
   //     ".lista .card .front"
   //   ).innerHTML = `<img src="${item.img}" alt="" />`;
