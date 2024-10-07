@@ -73,6 +73,12 @@ ul {
   border: 1px solid rgba(255, 255, 255, 0.25);
 }
 
+.container-home {
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+}
+
 #lista,
 #lista-partsOfHouse {
   display: grid;
@@ -122,15 +128,14 @@ ul {
 }
 
 .animals {
-  width: 200px;
+  max-width: 250px;
   border-radius: 50%;
-  margin: 10px;
 }
 
 .container-animals,
 .container-parts-house {
   margin-top: 50px;
-  width: 250px;
+  min-width: 250px;
   display: flex;
   flex-direction: column;
   justify-content: center;
