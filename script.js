@@ -3,21 +3,23 @@ barba.init({
     {
       name: "prueba",
       leave(data) {
-        // create your stunning leave animation here
         var done = this.async();
         document.body.classList.add("loading");
-        setTimeout(() => {
+        setTimeout(function () {
           done();
         }, 300);
       },
       enter(data) {
-        // create your stunning leave animation here
         var done = this.async();
         document.body.classList.add("loading");
-        setTimeout(() => {
+        setTimeout(function () {
           done();
-        }, 3000);
+        }, 300);
       },
     },
   ],
 });
+
+const front = document.querySelectorAll(".back");
+
+console.log(front);
