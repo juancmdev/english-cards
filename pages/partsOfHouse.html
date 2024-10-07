@@ -5,9 +5,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Parts of House</title>
     <link rel="stylesheet" href="../styles.css" />
+
+    <script src="https://unpkg.com/@barba/core"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@barba/core"></script>
   </head>
-  <body>
-    <div class="container-body">
+  <body data-barba="wrapper">
+    <div
+      class="container-body"
+      data-barba="container"
+      data-barba-namespace="home"
+    >
       <h1>Parts of house</h1>
       <main class="container">
         <ul id="lista-partsOfHouse"></ul>
@@ -34,5 +41,6 @@
     </div>
 
     <script type="module" src="/apps/partsOfHouse.js"></script>
+    <script src="/script.js"></script>
   </body>
 </html>
