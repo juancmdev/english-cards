@@ -1,3 +1,45 @@
+export const front_pages = [
+  {
+    a: "/pages/animals.html",
+    img: "/imgs/animals/monkey.jpg",
+    alt: "Animals page image",
+    text: "Animals",
+  },
+  {
+    a: "/pages/partsOfHouse.html",
+    img: "/imgs/parts_of_house/kitchen.jpg",
+    alt: "Parts of house page image",
+    text: "Parts of house",
+  },
+
+  //-------------------------------
+  {
+    a: "/pages/animals.html",
+    img: "/imgs/animals/monkey.jpg",
+    alt: "Animals page image",
+    text: "Animals",
+  },
+  {
+    a: "/pages/partsOfHouse.html",
+    img: "/imgs/parts_of_house/kitchen.jpg",
+    alt: "Parts of house page image",
+    text: "Parts of house",
+  },
+
+  {
+    a: "/pages/animals.html",
+    img: "/imgs/animals/monkey.jpg",
+    alt: "Animals page image",
+    text: "Animals",
+  },
+  {
+    a: "/pages/partsOfHouse.html",
+    img: "/imgs/parts_of_house/kitchen.jpg",
+    alt: "Parts of house page image",
+    text: "Parts of house",
+  },
+];
+
 export const animals = [
   {
     img: "/imgs/animals/monkey.jpg",

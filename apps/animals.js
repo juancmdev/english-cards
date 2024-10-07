@@ -5,13 +5,13 @@ const template = document.querySelector("#template").content;
 
 const fragment = document.createDocumentFragment();
 
-animals.forEach((item) => {
+animals.forEach((animal) => {
   //   template.querySelector(
   //     ".lista .card .front"
   //   ).innerHTML = `<img src="${item.img}" alt="" />`;
-  template.querySelector(".lista .card .front img").src = item.img;
-  template.querySelector(".lista .card .front img").alt = item.alt;
-  template.querySelector(".lista .back h2").textContent = item.back;
+  template.querySelector(".lista .card .front img").src = animal.img;
+  template.querySelector(".lista .card .front img").alt = animal.alt;
+  template.querySelector(".lista .back h2").textContent = animal.back;
 
   const clone = template.cloneNode(true);
   fragment.appendChild(clone);

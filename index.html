@@ -10,8 +10,23 @@
     <div class="container-body">
       <h1>Wellcome to the English Cards</h1>
 
-      <main class="container container-home">
-        <div class="container-animals">
+      <main class="container">
+        <div class="container-front-page">
+          <ul id="lista-front-page"></ul>
+        </div>
+
+        <template id="template-front-page">
+          <li class="lista">
+            <div class="container-animals">
+              <a href="">
+                <img class="animals" src="" alt="" />
+              </a>
+              <a href=""><h2></h2></a>
+            </div>
+          </li>
+        </template>
+
+        <!-- <div class="container-animals">
           <a href="/pages/animals.html">
             <img class="animals" src="/imgs/animals/monkey.jpg" alt="" />
           </a>
@@ -27,27 +42,7 @@
             />
           </a>
           <a href="/pages/partsOfHouse.html"><h2>Parts of the house</h2></a>
-        </div>
-
-        <!--                     -->
-
-        <div class="container-animals">
-          <a href="/pages/animals.html">
-            <img class="animals" src="/imgs/animals/monkey.jpg" alt="" />
-          </a>
-          <a href="/pages/animals.html"><h2>Animals</h2></a>
-        </div>
-
-        <div class="container-parts-house">
-          <a href="/pages/partsOfHouse.html">
-            <img
-              class="animals"
-              src="/imgs/parts_of_house/parts_of_house.jpg"
-              alt=""
-            />
-          </a>
-          <a href="/pages/partsOfHouse.html"><h2>Parts of the house</h2></a>
-        </div>
+        </div> -->
       </main>
 
       <footer>
@@ -55,6 +50,7 @@
       </footer>
 
       <script src="/script.js"></script>
+      <script type="module" src="/apps/front_page.js"></script>
     </div>
   </body>
 </html>
