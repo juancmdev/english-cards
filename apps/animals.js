@@ -13,8 +13,14 @@ animals.forEach((animal) => {
   template.querySelector(".lista .card .front img").alt = animal.alt;
   template.querySelector(".lista .back h2").textContent = animal.back;
 
+  const prueba = template.querySelector(".lista .card .front");
+
   const clone = template.cloneNode(true);
   fragment.appendChild(clone);
 });
 
 lista.appendChild(fragment);
+
+lista.addEventListener("click", () => {
+  lista.classList.toggle("opacity");
+});

@@ -115,13 +115,13 @@ ul {
   background: linear-gradient(179deg, #d7d7d7 0%, #eeeeee 100%);
 }
 
-.card:hover .front {
+/* .card:hover .front {
   transform: rotateY(-180deg);
 }
 
 .card:hover .back {
   transform: rotateY(0deg);
-}
+} */
 
 .animals {
   max-width: 250px;
