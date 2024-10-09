@@ -179,3 +179,11 @@ header {
   font-size: 30px;
   cursor: pointer;
 }
+
+.rotate-front {
+  transform: rotateY(-180deg);
+}
+
+.rotate-back {
+  transform: rotateY(0deg);
+}

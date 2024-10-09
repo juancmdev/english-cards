@@ -13,8 +13,6 @@ animals.forEach((animal) => {
   template.querySelector(".lista .card .front img").alt = animal.alt;
   template.querySelector(".lista .back h2").textContent = animal.back;
 
-  const prueba = template.querySelector(".lista .card .front");
-
   const clone = template.cloneNode(true);
   fragment.appendChild(clone);
 });
@@ -24,9 +22,16 @@ lista.appendChild(fragment);
 //-------------------------no funciona hacia abajo
 
 const prueba = lista.querySelectorAll(".front");
+const pruebados = lista.querySelectorAll(".back");
 
 console.log(prueba);
 
-prueba.addEventListener("click", () => {
-  console.log("click");
+prueba.forEach((item) => {
+  item.addEventListener("click", () => {
+    item.classList.toggle("rotate-front");
+    const pruebados = lista.querySelectorAll(".back");
+    pruebados.forEach((itemdos) => {
+      itemdos.classList.toggle("rotate-back");
+    });
+  });
 });
