@@ -156,9 +156,16 @@ header {
   background: azure;
   border-bottom: 1px solid rgba(0, 0, 0, 0.1);
 }
-.lucide {
+.fa-house {
+  font-size: 25px;
+}
+
+.home {
   position: absolute;
   top: 0;
-  left: 0;
-  margin: 20px 0 0 40px;
+  left: 40px;
+  width: 10%;
+  height: 100%;
+  display: flex;
+  align-items: center;
 }
