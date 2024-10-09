@@ -68,6 +68,8 @@ ul {
   width: 85%;
   margin: 0 auto;
   background: azure;
+  position: relative;
+  padding-bottom: 20px;
 }
 
 #lista,
@@ -168,4 +170,12 @@ header {
   height: 100%;
   display: flex;
   align-items: center;
+}
+
+.fa-arrow-left {
+  position: absolute;
+  bottom: 20px;
+  right: 40px;
+  font-size: 30px;
+  cursor: pointer;
 }
