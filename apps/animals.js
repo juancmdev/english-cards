@@ -21,6 +21,12 @@ animals.forEach((animal) => {
 
 lista.appendChild(fragment);
 
-lista.addEventListener("click", () => {
-  lista.classList.toggle("opacity");
+//-------------------------no funciona hacia abajo
+
+const prueba = lista.querySelectorAll(".front");
+
+console.log(prueba);
+
+prueba.addEventListener("click", () => {
+  console.log("click");
 });
