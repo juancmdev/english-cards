@@ -7,31 +7,51 @@
     <link rel="stylesheet" href="../styles.css" />
   </head>
   <body>
-    <div class="container-body">
+    <header>
+      <svg
+        xmlns="http://www.w3.org/2000/svg"
+        width="34"
+        height="34"
+        viewBox="0 0 24 24"
+        fill="none"
+        stroke="currentColor"
+        stroke-width="2"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        class="lucide lucide-house"
+      >
+        <path d="M15 21v-8a1 1 0 0 0-1-1h-4a1 1 0 0 0-1 1v8" />
+        <path
+          d="M3 10a2 2 0 0 1 .709-1.528l7-5.999a2 2 0 0 1 2.582 0l7 5.999A2 2 0 0 1 21 10v9a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"
+        />
+      </svg>
       <h1>Animals</h1>
-      <div class="container">
+    </header>
+
+    <div class="container">
+      <div class="container-front-page">
         <ul id="lista"></ul>
       </div>
-
-      <template id="template">
-        <li class="lista">
-          <div class="card">
-            <div class="front">
-              <h2></h2>
-              <img src="" alt="" />
-            </div>
-
-            <div class="back">
-              <h2></h2>
-            </div>
-          </div>
-        </li>
-      </template>
-
-      <footer>
-        <h3>Todos los derechos reservados &copy juancmdev 2024</h3>
-      </footer>
     </div>
+
+    <template id="template">
+      <li class="lista">
+        <div class="card">
+          <div class="front">
+            <h2></h2>
+            <img src="" alt="" />
+          </div>
+
+          <div class="back">
+            <h2></h2>
+          </div>
+        </div>
+      </li>
+    </template>
+
+    <footer>
+      <h3>Todos los derechos reservados &copy juancmdev 2024</h3>
+    </footer>
 
     <script type="module" src="/apps/animals.js"></script>
     <script src="/script.js"></script>

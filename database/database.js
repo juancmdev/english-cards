@@ -12,32 +12,32 @@ export const front_pages = [
     text: "Parts of house",
   },
 
+  {
+    a: "/pages/bathroom.html",
+    img: "/imgs/bathroom/bathroom.jpg",
+    alt: "Bathroom page image",
+    text: "Bathroom",
+  },
   //-------------------------------
-  {
-    a: "/pages/animals.html",
-    img: "/imgs/animals/monkey.jpg",
-    alt: "Animals page image",
-    text: "Animals",
-  },
-  {
-    a: "/pages/partsOfHouse.html",
-    img: "/imgs/parts_of_house/kitchen.jpg",
-    alt: "Parts of house page image",
-    text: "Parts of house",
-  },
+  // {
+  //   a: "/pages/partsOfHouse.html",
+  //   img: "/imgs/parts_of_house/kitchen.jpg",
+  //   alt: "Parts of house page image",
+  //   text: "Parts of house",
+  // },
 
-  {
-    a: "/pages/animals.html",
-    img: "/imgs/animals/monkey.jpg",
-    alt: "Animals page image",
-    text: "Animals",
-  },
-  {
-    a: "/pages/partsOfHouse.html",
-    img: "/imgs/parts_of_house/kitchen.jpg",
-    alt: "Parts of house page image",
-    text: "Parts of house",
-  },
+  // {
+  //   a: "/pages/animals.html",
+  //   img: "/imgs/animals/monkey.jpg",
+  //   alt: "Animals page image",
+  //   text: "Animals",
+  // },
+  // {
+  //   a: "/pages/partsOfHouse.html",
+  //   img: "/imgs/parts_of_house/kitchen.jpg",
+  //   alt: "Parts of house page image",
+  //   text: "Parts of house",
+  // },
 ];
 
 export const animals = [
@@ -114,5 +114,58 @@ export const partsOfHouse = [
     img: "/imgs/parts_of_house/kitchen.jpg",
     back: "Kitchen",
     alt: "Kitchen image",
+  },
+];
+
+export const bathroom = [
+  {
+    img: "/imgs/bathroom/bathroom.jpg",
+    back: "Bathroom",
+    alt: "Badroom image",
+  },
+  {
+    img: "/imgs/bathroom/mirror.jpg",
+    back: "Mirror",
+    alt: "Mirror image",
+  },
+  {
+    img: "/imgs/bathroom/towel.jpg",
+    back: "Towel",
+    alt: "Towel image",
+  },
+  {
+    img: "/imgs/bathroom/washbasin.jpg",
+    back: "Washbasin",
+    alt: "Washbasin image",
+  },
+  {
+    img: "/imgs/bathroom/bath_mat.jpg",
+    back: "Bath mat",
+    alt: "Bath mat image",
+  },
+  {
+    img: "/imgs/bathroom/bathtub.jpg",
+    back: "Bathtub",
+    alt: "Bathtub image",
+  },
+  {
+    img: "/imgs/bathroom/soap.jpg",
+    back: "Soap",
+    alt: "Soap image",
+  },
+  {
+    img: "/imgs/bathroom/shower.jpg",
+    back: "Shower",
+    alt: "Shower image",
+  },
+  {
+    img: "/imgs/bathroom/toilet_paper.jpg",
+    back: "Toilet paper",
+    alt: "Toilet paper image",
+  },
+  {
+    img: "/imgs/bathroom/toilet.jpg",
+    back: "Toilet",
+    alt: "Toilet image",
   },
 ];

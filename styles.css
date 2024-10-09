@@ -17,16 +17,16 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+}
+
+html {
   font-family: "Luckiest Guy", "Times New Roman", Times, serif;
   letter-spacing: 1.5px;
 }
 
 body {
-  background-image: url("/imgs/Gemini_Generated_Image_o1i35bo1i35bo1i3.jpg");
-  background-size: cover;
-  background-position: center center;
-  background-repeat: no-repeat;
   transition: all 0.3s ease;
+  background: #00cdc4;
 }
 
 h1 {
@@ -58,20 +58,18 @@ ul {
   list-style-type: none;
 }
 
-.container-body {
+/* .container-body {
   background: rgba(255, 255, 255, 0.5);
   -webkit-backdrop-filter: blur(2px);
   backdrop-filter: blur(2px);
   border: 1px solid rgba(255, 255, 255, 0.25);
-}
+} */
 
 .container {
-  width: 98%;
+  width: 100%;
   max-width: 1900px;
-  margin: 40px auto;
+  margin: 0 auto;
   min-height: 100vh;
-  border-radius: 20px;
-  padding: 40px;
 }
 
 .container-front-page {
@@ -82,10 +80,12 @@ ul {
 
 #lista,
 #lista-front-page,
-#lista-partsOfHouse {
+#lista-partsOfHouse,
+#lista-bathroom {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
   gap: 40px;
+  padding: 40px;
 }
 
 .container img {
@@ -136,12 +136,13 @@ ul {
 
 .container-animals,
 .container-parts-house {
-  margin-top: 50px;
   min-width: 250px;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  background: aliceblue;
+  padding: 40px 0;
 }
 
 footer {
@@ -150,4 +151,16 @@ footer {
 
 .loading {
   opacity: 0.3;
+}
+
+header {
+  position: relative;
+  width: 85%;
+  margin: 0 auto;
+  background: yellow;
+}
+.lucide {
+  position: absolute;
+  top: 25px;
+  left: 73px;
 }
