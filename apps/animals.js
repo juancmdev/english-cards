@@ -21,17 +21,11 @@ lista.appendChild(fragment);
 
 //-------------------------no funciona hacia abajo
 
-const prueba = lista.querySelectorAll(".front");
-const pruebados = lista.querySelectorAll(".back");
-
-console.log(prueba);
+const prueba = lista.querySelectorAll(".card");
 
 prueba.forEach((item) => {
   item.addEventListener("click", () => {
-    item.classList.toggle("rotate-front");
-    const pruebados = lista.querySelectorAll(".back");
-    pruebados.forEach((itemdos) => {
-      itemdos.classList.toggle("rotate-back");
-    });
+    item.firstElementChild.classList.toggle("rotate-front");
+    item.lastElementChild.classList.toggle("rotate-back");
   });
 });
