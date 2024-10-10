@@ -18,3 +18,14 @@ partsOfHouse.forEach((item) => {
 });
 
 lista.appendChild(fragment);
+
+//---------------Rotate cards----------------------------------
+
+const toggle_cards = lista.querySelectorAll(".card");
+
+toggle_cards.forEach((toggle_card) => {
+  toggle_card.addEventListener("click", () => {
+    toggle_card.firstElementChild.classList.toggle("rotate-front");
+    toggle_card.lastElementChild.classList.toggle("rotate-back");
+  });
+});

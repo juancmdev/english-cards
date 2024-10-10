@@ -19,13 +19,13 @@ animals.forEach((animal) => {
 
 lista.appendChild(fragment);
 
-//-------------------------no funciona hacia abajo
+//---------------Rotate cards----------------------------------
 
-const prueba = lista.querySelectorAll(".card");
+const toggle_cards = lista.querySelectorAll(".card");
 
-prueba.forEach((item) => {
-  item.addEventListener("click", () => {
-    item.firstElementChild.classList.toggle("rotate-front");
-    item.lastElementChild.classList.toggle("rotate-back");
+toggle_cards.forEach((toggle_card) => {
+  toggle_card.addEventListener("click", () => {
+    toggle_card.firstElementChild.classList.toggle("rotate-front");
+    toggle_card.lastElementChild.classList.toggle("rotate-back");
   });
 });
