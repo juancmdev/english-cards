@@ -2,7 +2,6 @@ import { front_pages } from "../database/database.js";
 
 const lista = document.querySelector("#lista-front-page");
 const template = document.querySelector("#template-front-page").content;
-console.log(template);
 
 const fragment = document.createDocumentFragment();
 
@@ -25,7 +24,7 @@ lista.appendChild(fragment);
 const scale_cards = lista.querySelectorAll("img");
 
 scale_cards.forEach((scale_card) => {
-  scale_card_card.addEventListener("click", () => {
+  scale_card.addEventListener("click", () => {
     toggle_card.firstElementChild.classList.toggle("rotate-front");
     toggle_card.lastElementChild.classList.toggle("rotate-back");
   });

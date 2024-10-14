@@ -1,25 +1,10 @@
-// barba.init({
-//   transitions: [
-//     {
-//       name: "prueba",
-//       leave(data) {
-//         var done = this.async();
-//         document.body.classList.add("loading");
-//         setTimeout(function () {
-//           done();
-//         }, 300);
-//       },
-//       enter(data) {
-//         var done = this.async();
-//         document.body.classList.add("loading");
-//         setTimeout(function () {
-//           done();
-//         }, 300);
-//       },
-//     },
-//   ],
-// });
+const timeout = document.querySelector(".timeout");
+const btnAlert = document.querySelector(".btn-alert");
 
-// const front = document.querySelectorAll(".back");
+setTimeout(() => {
+  timeout.classList.add("display");
+}, 3000);
 
-// console.log(front);
+btnAlert.addEventListener("click", () => {
+  timeout.classList.add("display-none");
+});

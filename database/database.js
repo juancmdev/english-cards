@@ -32,6 +32,13 @@ export const front_pages = [
     alt: "Bedroom page image",
     text: "Bedroom",
   },
+
+  {
+    a: "/pages/kitchen.html",
+    img: "/imgs/kitchen/kitchen.jpg",
+    alt: "Kitchen page image",
+    text: "Kitchen",
+  },
 ];
 
 export const animals = [
@@ -264,6 +271,41 @@ export const bedroom = [
     img: "/imgs/bedroom/floor.jpg",
     back: "Floor",
     alt: "Floor image",
+  },
+];
+
+export const kitchen = [
+  {
+    img: "/imgs/kitchen/oven.jpg",
+    back: "Oven",
+    alt: "Oven image",
+  },
+
+  {
+    img: "/imgs/kitchen/pan.jpg",
+    back: "Pan",
+    alt: "Pan image",
+  },
+
+  {
+    img: "/imgs/kitchen/window.jpg",
+    back: "Window",
+    alt: "Window image",
+  },
+  {
+    img: "/imgs/kitchen/sink.jpeg",
+    back: "Sink",
+    alt: "Sink image",
+  },
+  {
+    img: "/imgs/kitchen/dishes.jpeg",
+    back: "Dishes",
+    alt: "Dishes image",
+  },
+  {
+    img: "/imgs/kitchen/cupboard.jpg",
+    back: "Cupboard",
+    alt: "Cupboard image",
   },
 ];
 
