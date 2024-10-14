@@ -75,7 +75,8 @@ ul {
 #lista,
 #lista-front-page,
 #lista-partsOfHouse,
-#lista-bathroom {
+#lista-bathroom,
+#lista-daily-routine {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
   gap: 40px;
@@ -97,6 +98,7 @@ ul {
 .card:hover {
   transform: scale(1.1);
   box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+  border-radius: 5px;
 }
 
 .front,

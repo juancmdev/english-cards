@@ -18,26 +18,13 @@ export const front_pages = [
     alt: "Bathroom page image",
     text: "Bathroom",
   },
-  //-------------------------------
-  // {
-  //   a: "/pages/partsOfHouse.html",
-  //   img: "/imgs/parts_of_house/kitchen.jpg",
-  //   alt: "Parts of house page image",
-  //   text: "Parts of house",
-  // },
 
-  // {
-  //   a: "/pages/animals.html",
-  //   img: "/imgs/animals/monkey.jpg",
-  //   alt: "Animals page image",
-  //   text: "Animals",
-  // },
-  // {
-  //   a: "/pages/partsOfHouse.html",
-  //   img: "/imgs/parts_of_house/kitchen.jpg",
-  //   alt: "Parts of house page image",
-  //   text: "Parts of house",
-  // },
+  {
+    a: "/pages/daily-routine.html",
+    img: "/imgs/daily-routine/have_breakfast.jpg",
+    alt: "Daily Routine page image",
+    text: "Daily Routine",
+  },
 ];
 
 export const animals = [
@@ -167,5 +154,28 @@ export const bathroom = [
     img: "/imgs/bathroom/toilet.jpg",
     back: "Toilet",
     alt: "Toilet image",
+  },
+];
+
+export const daily_routine = [
+  {
+    img: "/imgs/daily-routine/have_breakfast.jpg",
+    back: "Have Breakfast",
+    alt: "Have Breakfast image",
+  },
+  {
+    img: "/imgs/daily-routine/take_a_shower.jpg",
+    back: "Take a Shower",
+    alt: "Take a Shower image",
+  },
+  {
+    img: "/imgs/daily-routine/Brush_my_teeth.jpg",
+    back: "Brush my teeth",
+    alt: "Brush my teeth image",
+  },
+  {
+    img: "/imgs/daily-routine/go_to_school.jpg",
+    back: "Go to School",
+    alt: "Go to School image",
   },
 ];
