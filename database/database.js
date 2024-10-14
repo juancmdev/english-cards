@@ -178,4 +178,34 @@ export const daily_routine = [
     back: "Go to School",
     alt: "Go to School image",
   },
+  {
+    img: "/imgs/daily-routine/have_lunch.jpg",
+    back: "Have Lunch",
+    alt: "Have lunch image",
+  },
+  {
+    img: "/imgs/daily-routine/do_homework.jpg",
+    back: "Do Homework",
+    alt: "Do Homework image",
+  },
+  {
+    img: "/imgs/daily-routine/practice_sports.jpg",
+    back: "Practice Sport",
+    alt: "Practice Sport image",
+  },
+  {
+    img: "/imgs/daily-routine/have_dinner.jpg",
+    back: "Have Dinner",
+    alt: "Have dinner image",
+  },
+  {
+    img: "/imgs/daily-routine/watch_tv.jpg",
+    back: "Watch TV",
+    alt: "Watch TV image",
+  },
+  {
+    img: "/imgs/daily-routine/sleep.png",
+    back: "Sleep",
+    alt: "Sleep image",
+  },
 ];
