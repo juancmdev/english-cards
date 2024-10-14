@@ -1,6 +1,6 @@
-# Como
+# El proyecto
 
-Bienvenido a mi repositorio el cual está creado para todas aquellas personas, niños o adultos que quieran aprender vocabulario Inglés de forma didáctica y amena por medio de tarjetas o "Cards" las cuales nos servirán para memorizar más fácilmente el vocabulario que queramos aprender.
+Bienvenido a mi repositorio el cual está creado para todas aquellas personas, niños o adultos que quieran aprender vocabulario en Inglés de forma didáctica y divertida por medio de tarjetas o "Cards" las cuales nos servirán para memorizar más fácilmente el vocabulario que queramos aprender.
 
 Espero les guste y me puedan regalar una estrella para que este repositorio le vaya llegando a todos aquellos que igual que yo están empezando, aprendiendo y les pueda llegar a ser de utilidad.
 
