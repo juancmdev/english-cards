@@ -25,6 +25,13 @@ export const front_pages = [
     alt: "Daily Routine page image",
     text: "Daily Routine",
   },
+
+  {
+    a: "/pages/bedroom.html",
+    img: "/imgs/bedroom/Bedroom.jpg",
+    alt: "Bedroom page image",
+    text: "Bedroom",
+  },
 ];
 
 export const animals = [
@@ -101,6 +108,16 @@ export const partsOfHouse = [
     img: "/imgs/parts_of_house/kitchen.jpg",
     back: "Kitchen",
     alt: "Kitchen image",
+  },
+  {
+    img: "/imgs/parts_of_house/living_room.jpg",
+    back: "Living Room",
+    alt: "Living room image",
+  },
+  {
+    img: "/imgs/parts_of_house/bathroom.jpg",
+    back: "Bathroom",
+    alt: "Bathroom image",
   },
 ];
 
@@ -209,3 +226,21 @@ export const daily_routine = [
     alt: "Sleep image",
   },
 ];
+
+export const bedroom = [
+  {
+    img: "/imgs/bedroom/Bedroom.jpg",
+    back: "Bedroom",
+    alt: "Bedroom image",
+  },
+];
+
+/*--------------template--------------------------------
+export const bedroom = [
+  {
+    img: "/imgs/******.jpg",
+    back: "text here",
+    alt: "text here image",
+  },
+];
+*/
