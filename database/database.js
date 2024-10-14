@@ -221,7 +221,7 @@ export const daily_routine = [
     alt: "Watch TV image",
   },
   {
-    img: "/imgs/daily-routine/sleep.png",
+    img: "/imgs/daily-routine/sleep.jpg",
     back: "Sleep",
     alt: "Sleep image",
   },
@@ -229,9 +229,41 @@ export const daily_routine = [
 
 export const bedroom = [
   {
-    img: "/imgs/bedroom/Bedroom.jpg",
-    back: "Bedroom",
-    alt: "Bedroom image",
+    img: "/imgs/bedroom/wardbrobe.jpg",
+    back: "Wardrobe",
+    alt: "Wardrobe image",
+  },
+  {
+    img: "/imgs/bedroom/bed.jpg",
+    back: "Bed",
+    alt: "Bed image",
+  },
+  {
+    img: "/imgs/bedroom/night_table.jpg",
+    back: "Night Table",
+    alt: "Night Table",
+  },
+
+  {
+    img: "/imgs/bedroom/pillow.jpg",
+    back: "Pillow",
+    alt: "Pillow image",
+  },
+
+  {
+    img: "/imgs/bedroom/sheet.jpeg",
+    back: "Sheet",
+    alt: "Sheet image",
+  },
+  {
+    img: "/imgs/bedroom/lamp.jpg",
+    back: "Lamp",
+    alt: "Lamp image",
+  },
+  {
+    img: "/imgs/bedroom/floor.jpg",
+    back: "Floor",
+    alt: "Floor image",
   },
 ];
 

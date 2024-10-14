@@ -1,6 +1,6 @@
 # Como incluir nuevos archivos:
 
-- En pages crear el archivo htlm de la página en este caso bedroom.html.
+- En la carpeta pages crear el archivo htlm de la página en este caso bedroom.html.
 - Localizo dentro de pages el archivo template.html, copio todo su contenido y lo pego en la nueva página que quiero trabajar en este caso en bedroom.html.
 - Ubico todos los asteriscos e identifico lo que debo empezar a cambiar.
 - Copio el id de la ul donde quiero insertar el contenido, busco el archivo styles.css, ahí ubico el css que contiene lo siguiente:
