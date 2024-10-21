@@ -79,7 +79,8 @@ ul {
 #lista-bathroom,
 #lista-daily-routine,
 #lista-bedroom,
-#lista-kitchen {
+#lista-kitchen,
+#lista-body-parts {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
   gap: 40px;

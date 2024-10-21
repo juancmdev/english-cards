@@ -315,6 +315,51 @@ export const kitchen = [
   },
 ];
 
+export const body_parts = [
+  {
+    img: "/imgs/body_parts/face.jpg",
+    back: "Face",
+    alt: "Face image",
+  },
+  {
+    img: "/imgs/body_parts/eyes.jpg",
+    back: "Eyes",
+    alt: "Eyes image",
+  },
+  {
+    img: "/imgs/body_parts/face.jpg",
+    back: "Face",
+    alt: "Face image",
+  },
+  {
+    img: "/imgs/body_parts/eyes.jpg",
+    back: "Eyes",
+    alt: "Eyes image",
+  },
+  {
+    img: "/imgs/body_parts/face.jpg",
+    back: "Face",
+    alt: "Face image",
+  },
+  {
+    img: "/imgs/body_parts/eyes.jpg",
+    back: "Eyes",
+    alt: "Eyes image",
+  },
+  {
+    img: "/imgs/body_parts/face.jpg",
+    back: "Face",
+    alt: "Face image",
+  },
+  {
+    img: "/imgs/body_parts/eyes.jpg",
+    back: "Eyes",
+    alt: "Eyes image",
+  },
+
+];
+
+
 /*--------------template--------------------------------
 export const bedroom = [
   {
