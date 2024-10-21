@@ -39,6 +39,12 @@ export const front_pages = [
     alt: "Kitchen page image",
     text: "Kitchen",
   },
+  {
+    a: "/pages/body_parts.html",
+    img: "/imgs/body_parts/body_parts.jpg",
+    alt: "Body parts image",
+    text: "Body Parts",
+  },
 ];
 
 export const animals = [
