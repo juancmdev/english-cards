@@ -322,7 +322,7 @@ export const body_parts = [
     alt: "Face image",
   },
   {
-    img: "/imgs/body_parts/eyes.jpg",
+    img: "/imgs/body_parts/eyes.png",
     back: "Eyes",
     alt: "Eyes image",
   },
@@ -332,7 +332,7 @@ export const body_parts = [
     alt: "Face image",
   },
   {
-    img: "/imgs/body_parts/eyes.jpg",
+    img: "/imgs/body_parts/eyes.png",
     back: "Eyes",
     alt: "Eyes image",
   },
@@ -342,7 +342,7 @@ export const body_parts = [
     alt: "Face image",
   },
   {
-    img: "/imgs/body_parts/eyes.jpg",
+    img: "/imgs/body_parts/eyes.png",
     back: "Eyes",
     alt: "Eyes image",
   },
@@ -352,11 +352,10 @@ export const body_parts = [
     alt: "Face image",
   },
   {
-    img: "/imgs/body_parts/eyes.jpg",
+    img: "/imgs/body_parts/eyes.png",
     back: "Eyes",
     alt: "Eyes image",
   },
-
 ];
 
 
