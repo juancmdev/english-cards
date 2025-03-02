@@ -80,7 +80,8 @@ ul {
 #lista-daily-routine,
 #lista-bedroom,
 #lista-kitchen,
-#lista-body-parts {
+#lista-body-parts,
+#lista-fruits {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
   gap: 40px;

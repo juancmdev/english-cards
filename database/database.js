@@ -45,6 +45,13 @@ export const front_pages = [
     alt: "Body parts image",
     text: "Body Parts",
   },
+
+  {
+    a: "/pages/fruits.html",
+    img: "/imgs/fruits/apple.jpg",
+    alt: "Apple image",
+    text: "Fruits",
+  },
 ];
 
 export const animals = [
@@ -357,7 +364,6 @@ export const body_parts = [
     alt: "Eyes image",
   },
 ];
-
 
 /*--------------template--------------------------------
 export const bedroom = [
