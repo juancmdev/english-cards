@@ -322,3 +322,9 @@ function createPaginationControls() {
 // Inicialización
 displayPage(currentPage);
 createPaginationControls();
+
+const fa_arrows_rotate = document.querySelector(".fa-arrows-rotate");
+
+fa_arrows_rotate.addEventListener("click", () => {
+  location.reload();
+});

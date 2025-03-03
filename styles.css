@@ -284,3 +284,10 @@ header {
   cursor: pointer;
   border-radius: 5px;
 }
+
+.fa-arrows-rotate {
+  font-size: 30px;
+  cursor: pointer;
+  width: 51%;
+  text-align: right;
+}
