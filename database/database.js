@@ -52,6 +52,19 @@ export const front_pages = [
     alt: "Apple image",
     text: "Fruits",
   },
+
+  {
+    a: "/pages/fruits.html",
+    img: "/imgs/fruits/apple.jpg",
+    alt: "Apple image",
+    text: "Fruits",
+  },
+  {
+    a: "/pages/vocabulary.html",
+    img: "/imgs/vocabulary/vocabulary.jpg",
+    alt: "Vocabulary page image",
+    text: "Vocabulary",
+  },
 ];
 
 export const animals = [
