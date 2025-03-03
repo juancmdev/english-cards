@@ -1,11 +1,11 @@
-import { vocabulary } from "../database/vocabulary.js";
+import { vocabulary, prueba } from "../database/vocabulary.js";
 
 const lista = document.querySelector("#lista-vocabulary");
 const template = document.querySelector("#template-vocabulary").content;
 
 const fragment = document.createDocumentFragment();
 
-vocabulary.forEach((vocabulary_word) => {
+prueba.forEach((vocabulary_word) => {
   template.querySelector(".lista .card .front h2").textContent =
     vocabulary_word.front;
   template.querySelector(".lista .back h2").textContent = vocabulary_word.back;

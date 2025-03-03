@@ -1,258 +1,324 @@
 export const vocabulary = [
   {
-    front: "Should",
-    back: "Debería",
+    front: "Debería",
+    back: "Should",
   },
   {
-    front: "Shouldn´t or Should not",
-    back: " No Debería",
+    front: " No Debería",
+    back: "Shouldn´t or Should not",
   },
   {
-    front: "Health Food",
-    back: "Comida Saludable",
+    front: "Comida Saludable",
+    back: "Healthy Food",
   },
   {
-    front: "Have to",
-    back: "Tener que (obligación)",
+    front: "Tener que (obligación)",
+    back: "Have to",
     example: "I have to eat",
   },
   {
-    front: "Apple",
-    back: "Manzana",
+    front: "Manzana",
+    back: "Apple",
   },
   {
-    front: "Lemon",
-    back: "Limón",
+    front: "Limón",
+    back: "Lemon",
   },
   {
-    front: "Grapes",
-    back: "Uvas",
+    front: "Uvas",
+    back: "Grapes",
   },
   {
-    front: "Banana",
-    back: "Banano",
+    front: "Banano",
+    back: "Banana",
   },
   {
-    front: "Broccoli",
-    back: "Brocoli",
+    front: "Brocoli",
+    back: "Broccoli",
   },
   {
-    front: "Beans",
-    back: "Fríjoles",
+    front: "Fríjoles",
+    back: "Beans",
   },
   {
-    front: "Tomato",
-    back: "Tomate",
+    front: "Tomate",
+    back: "Tomato",
   },
   {
-    front: "Strawberry",
-    back: "Fresa",
+    front: "Fresa",
+    back: "Strawberry",
   },
   {
-    front: "Avocado",
-    back: "Aguacate",
+    front: "Aguacate",
+    back: "Avocado",
   },
   {
-    front: "Corn",
-    back: "Maiz",
+    front: "Maiz",
+    back: "Corn",
   },
   {
-    front: "Carrot",
-    back: "Zanahoria",
+    front: "Zanahoria",
+    back: "Carrot",
   },
   {
-    front: "Blueberry",
-    back: "Arándano",
+    front: "Arándano",
+    back: "Blueberry",
   },
   {
-    front: "Blackberry",
-    back: "Mora",
+    front: "Mora",
+    back: "Blackberry",
   },
   {
-    front: "Onion",
-    back: "Cebolla",
+    front: "Cebolla",
+    back: "Onion",
   },
   {
-    front: "Pineapple",
-    back: "Piña",
+    front: "Piña",
+    back: "Pineapple",
   },
 
   {
-    front: "Potato",
-    back: "Papa",
+    front: "Papa",
+    back: "Potato",
   },
   {
-    front: "Guava",
-    back: "Guayava",
+    front: "Guayava",
+    back: "Guava",
     example: "",
   },
   {
-    front: "Lettuce",
-    back: "Lechuga",
+    front: "Lechuga",
+    back: "Lettuce",
   },
   {
-    front: "Garlic",
-    back: "Ajo",
+    front: "Ajo",
+    back: "Garlic",
     example: "",
   },
   {
-    front: "Coconut",
-    back: "Coco",
+    front: "Coco",
+    back: "Coconut",
   },
   {
-    front: "I realy like",
-    back: "Realmete me gusta",
+    front: "Realmete me gusta",
+    back: "I realy like",
   },
   {
-    front: "I don´t like",
-    back: "No me gusta",
+    front: "No me gusta",
+    back: "I don´t like",
   },
   {
-    front: "Egg",
-    back: "Huevo",
+    front: "Huevo",
+    back: "Egg",
   },
   {
-    front: "Salad",
-    back: "Ensalada",
+    front: "Ensalada",
+    back: "Salad",
   },
   {
-    front: "Rice",
-    back: "Arroz",
+    front: "Arroz",
+    back: "Rice",
   },
   {
-    front: "Spaghetti",
-    back: "Espagueti",
+    front: "Espagueti",
+    back: "Spaghetti",
   },
   {
-    front: "Meat",
-    back: "Carne",
+    front: "Carne",
+    back: "Meat",
   },
   {
-    front: "Coffe",
-    back: "Café",
+    front: "Café",
+    back: "Coffe",
   },
   {
-    front: "Milk",
-    back: "Leche",
+    front: "Leche",
+    back: "Milk",
   },
   {
-    front: "Cheese",
-    back: "Queso",
+    front: "Queso",
+    back: "Cheese",
   },
   {
-    front: "Bread",
-    back: "Pan",
+    front: "Pan",
+    back: "Bread",
   },
   {
     front: "Pizza",
     back: "Pizza",
   },
   {
-    front: "French Fries",
-    back: "Papas Fritas",
+    front: "Papas Fritas",
+    back: "French Fries",
   },
   {
-    front: "Ice Cream",
-    back: "Helado",
+    front: "Helado",
+    back: "Ice Cream",
   },
   {
-    front: "Tuna",
-    back: "Atún",
+    front: "Atún",
+    back: "Tuna",
   },
   {
-    front: "Soup",
-    back: "Sopa",
+    front: "Sopa",
+    back: "Soup",
   },
   {
-    front: "Sausage",
-    back: "Salsa",
+    front: "Salsa",
+    back: "Sausage",
   },
   {
-    front: "Burger",
-    back: "Hamburguesa",
+    front: "Hamburguesa",
+    back: "Burger",
   },
   {
-    front: "Candies",
-    back: "Dulces",
+    front: "Dulces",
+    back: "Candies",
   },
   {
-    front: "Donuts",
-    back: "Donas",
+    front: "Donas",
+    back: "Donuts",
   },
   {
-    front: "Soda",
-    back: "Gaseosa",
+    front: "Gaseosa",
+    back: "Soda",
   },
   {
-    front: "Too much",
-    back: "Demaciado",
+    front: "Demaciado",
+    back: "Too much",
   },
   {
-    front: "Drink",
-    back: "Beber",
+    front: "Beber",
+    back: "Drink",
   },
   {
-    front: "Because",
-    back: "Porque",
+    front: "Porque",
+    back: "Because",
   },
   {
-    front: "How Often",
-    back: "Con qué frecuencia",
+    front: "Con qué frecuencia",
+    back: "How Often",
   },
   {
-    front: "Always",
-    back: "Siempre",
+    front: "Siempre",
+    back: "Always",
   },
   {
-    front: "Usually",
-    back: "Usualmente",
+    front: "Usualmente",
+    back: "Usually",
   },
   {
-    front: "Sometime",
-    back: "Algunas veces",
+    front: "Algunas veces",
+    back: "Sometimes",
   },
   {
-    front: "Dinner",
-    back: "Cena",
+    front: "Cena",
+    back: "Dinner",
   },
   {
-    front: "Seldom",
-    back: "Rara vez",
+    front: "Rara vez",
+    back: "Seldom",
   },
   {
-    front: "Vitamins",
-    back: "Vitaminas",
+    front: "Vitaminas",
+    back: "Vitamins",
   },
   {
-    front: "Carbohidrates",
-    back: "Carbohidratos",
+    front: "Carbohidratos",
+    back: "Carbohidrates",
   },
   {
-    front: "Energy",
-    back: "Energía",
+    front: "Energía",
+    back: "Energy",
   },
   {
-    front: "Proteins",
-    back: "Proteínas",
+    front: "Proteínas",
+    back: "Proteins",
   },
   {
-    front: "",
-    back: "",
+    front: "Calcio",
+    back: "Calium",
   },
   {
-    front: "",
-    back: "",
+    front: "Grasa",
+    back: "Fat",
   },
   {
-    front: "",
-    back: "",
+    front: "Aceite",
+    back: "Oil",
   },
   {
-    front: "",
-    back: "",
+    front: "Energía",
+    back: "Store",
   },
   {
-    front: "",
-    back: "",
+    front: "Reserva de Energía",
+    back: "Energy Store",
+  },
+  {
+    front: "Menú",
+    back: "Menu",
+  },
+  {
+    front: "Platos Principales",
+    back: "Main Dishes",
+  },
+  {
+    front: "Postre",
+    back: "Dessert",
+  },
+  {
+    front: "Restaurante",
+    back: "Restaurant",
+  },
+  {
+    front: "Pezcado",
+    back: "Fish",
+  },
+  {
+    front: "Lentejas",
+    back: "Lentils",
+  },
+  {
+    front: "Músculo",
+    back: "Muscle",
   },
 ];
+
+function shuffleArray(array) {
+  for (let i = array.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [array[i], array[j]] = [array[j], array[i]];
+  }
+  return array;
+}
+
+// shuffleArray(vocabulary);
+
+const data = shuffleArray(vocabulary);
+
+const itemsPerPage = 8;
+let currentPage = 1;
+
+const displayPage = (page) => {
+  const startIndex = (page - 1) * itemsPerPage;
+  const endIndex = startIndex + itemsPerPage;
+  const pageData = data.slice(startIndex, endIndex);
+
+  // Muestra pageData en tu elemento HTML
+
+  return pageData;
+};
+
+export const prueba = displayPage(currentPage);
+console.log(prueba);
+
+function createPaginationControls() {
+  const totalPages = Math.ceil(data.length / itemsPerPage);
+  // Crea botones o enlaces para cada página
+  // Agrega event listeners para cambiar currentPage y llamar a displayPage()
+}
+
+// Inicialización
+displayPage(currentPage);
+createPaginationControls();
