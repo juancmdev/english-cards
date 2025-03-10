@@ -65,6 +65,12 @@ export const front_pages = [
     alt: "Vocabulary page image",
     text: "Vocabulary",
   },
+  {
+    a: "/pages/personal_pronouns.html",
+    img: "/imgs//personal_pronouns/personal_pronouns.jpg",
+    alt: "Personal pronouns page image",
+    text: "Personal Pronouns",
+  },
 ];
 
 export const animals = [

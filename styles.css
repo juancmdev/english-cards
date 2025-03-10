@@ -82,7 +82,8 @@ ul {
 #lista-kitchen,
 #lista-body-parts,
 #lista-fruits,
-#lista-vocabulary {
+#lista-vocabulary,
+#lista-personal_pronouns {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
   gap: 40px;
@@ -290,4 +291,10 @@ header {
   cursor: pointer;
   width: 51%;
   text-align: right;
+}
+
+header {
+  position: sticky;
+  top: 0;
+  z-index: 1;
 }
