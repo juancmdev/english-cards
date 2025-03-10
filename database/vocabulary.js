@@ -283,6 +283,42 @@ export const vocabulary = [
     front: "Músculo",
     back: "Muscle",
   },
+  {
+    front: "Gustar",
+    back: "Like",
+  },
+  {
+    front: "Comer",
+    back: "Eat",
+  },
+  {
+    front: "Comida",
+    back: "Food",
+  },
+  {
+    front: "Entonces",
+    back: "So",
+  },
+  {
+    front: "Realmente",
+    back: "Really",
+  },
+  {
+    front: "Malsano",
+    back: "Unhealthy",
+  },
+  {
+    front: "Estilo de vida",
+    back: "Lifestyle",
+  },
+  {
+    front: "Ellos",
+    back: "They",
+  },
+  {
+    front: "Beber",
+    back: "Drink",
+  },
 ];
 
 function shuffleArray(array) {
