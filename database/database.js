@@ -67,9 +67,15 @@ export const front_pages = [
   },
   {
     a: "/pages/personal_pronouns.html",
-    img: "/imgs//personal_pronouns/personal_pronouns.jpg",
+    img: "/imgs/personal_pronouns/personal_pronouns.jpg",
     alt: "Personal pronouns page image",
     text: "Personal Pronouns",
+  },
+  {
+    a: "/pages/words_of_the_week.html",
+    img: "/imgs/words_of_the_week/words_of_the_week.jpg",
+    alt: "Words of the week page image",
+    text: "Words of the Week",
   },
 ];
 
