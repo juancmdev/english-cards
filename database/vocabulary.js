@@ -453,18 +453,22 @@ const displayPage = (page) => {
 export const prueba = displayPage(currentPage);
 console.log(prueba);
 
-function createPaginationControls() {
-  const totalPages = Math.ceil(data.length / itemsPerPage);
-  // Crea botones o enlaces para cada página
-  // Agrega event listeners para cambiar currentPage y llamar a displayPage()
-}
-
-// Inicialización
-displayPage(currentPage);
-createPaginationControls();
-
 const fa_arrows_rotate = document.querySelector(".fa-arrows-rotate");
 
 fa_arrows_rotate.addEventListener("click", () => {
   location.reload();
 });
+
+/*-----------------------------------FUTURE IMPLEMENTATION-------------------------------------------*/
+
+// function createPaginationControls() {
+//   const totalPages = Math.ceil(data.length / itemsPerPage);
+//   // Crea botones o enlaces para cada página
+//   // Agrega event listeners para cambiar currentPage y llamar a displayPage()
+// }
+
+// // Inicialización
+// displayPage(currentPage);
+// createPaginationControls();
+
+
