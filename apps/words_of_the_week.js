@@ -1,4 +1,4 @@
-import { words_of_the_week } from "../database/words_of_the_week.js";
+import { words_of_the_week } from "../database/words_of_the_week_db.js"; 
 
 const lista = document.querySelector("#lista-words-of-the-week");
 const template = document.querySelector("#template-words-of-the-week").content;
@@ -6,10 +6,9 @@ const template = document.querySelector("#template-words-of-the-week").content;
 const fragment = document.createDocumentFragment();
 
 words_of_the_week.forEach((word) => {
-  template.querySelector(".lista .card .front img").src = word.img;
-  template.querySelector(".lista .card .front img").alt = word.alt;
+  template.querySelector(".lista .card .front h2").textContent = word.front;
   template.querySelector(".lista .back h2").textContent = word.back;
-
+//   template.querySelector(".lista .back h3").textContent = word.example;
   const clone = template.cloneNode(true);
   fragment.appendChild(clone);
 });

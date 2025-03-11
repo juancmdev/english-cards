@@ -138,6 +138,6 @@ function shuffleArray(array) {
   return array;
 }
 
-// shuffleArray(vocabulary);
+// shuffleArray(words_of_the_week);
 
-const data = shuffleArray(vocabulary);
+const data = shuffleArray(words_of_the_week);

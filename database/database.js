@@ -75,7 +75,7 @@ export const front_pages = [
     a: "/pages/words_of_the_week.html",
     img: "/imgs/words_of_the_week/words_of_the_week.jpg",
     alt: "Words of the week page image",
-    text: "Words of the Week",
+    text: "Words of the week",
   },
 ];
 
