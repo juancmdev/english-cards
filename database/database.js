@@ -1,5 +1,11 @@
 export const front_pages = [
   {
+    a: "/pages/vocabulary.html",
+    img: "/imgs/vocabulary/vocabulary.jpg",
+    alt: "Vocabulary page image",
+    text: "Vocabulary",
+  },
+  {
     a: "/pages/animals.html",
     img: "/imgs/animals/monkey.jpg",
     alt: "Animals page image",
@@ -52,12 +58,7 @@ export const front_pages = [
     alt: "Apple image",
     text: "Fruits",
   },
-  {
-    a: "/pages/vocabulary.html",
-    img: "/imgs/vocabulary/vocabulary.jpg",
-    alt: "Vocabulary page image",
-    text: "Vocabulary",
-  },
+
   {
     a: "/pages/personal_pronouns.html",
     img: "/imgs/personal_pronouns/personal_pronouns.jpg",
