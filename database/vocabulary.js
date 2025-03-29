@@ -248,7 +248,7 @@ export const vocabulary = [
     back: "Oil",
   },
   {
-    front: "Energía",
+    front: "Tienda",
     back: "Store",
   },
   {
@@ -470,5 +470,3 @@ fa_arrows_rotate.addEventListener("click", () => {
 // // Inicialización
 // displayPage(currentPage);
 // createPaginationControls();
-
-
