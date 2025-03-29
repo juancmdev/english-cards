@@ -40,3 +40,11 @@ function shuffleArray(array) {
 // shuffleArray(vocabulary);
 
 const data = shuffleArray(personal_pronouns);
+
+const fa_arrows_rotate = document.querySelector(".fa-arrows-rotate");
+
+console.log(fa_arrows_rotate);
+
+fa_arrows_rotate.addEventListener("click", () => {
+  location.reload();
+});
