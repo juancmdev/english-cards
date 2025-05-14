@@ -2,10 +2,14 @@ const timeout = document.querySelector(".timeout");
 const btnAlert = document.querySelector(".btn-alert");
 
 const btnCategories = document.querySelector(".btn-categories");
+const menuCategorias = document.querySelector("#menu-categorias");
 
 btnCategories.addEventListener("mouseenter", () => {
-  console.log('Funciona');
-  
+  menuCategorias.classList.remove("oculto");
+})
+
+menuCategorias.addEventListener("mouseleave", () => {
+  menuCategorias.classList.add("oculto");
 })
 
 setTimeout(() => {

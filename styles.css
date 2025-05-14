@@ -26,7 +26,7 @@ html {
 
 nav {
   width: 85%;
-  height: 80px;
+  height: 70px;
   margin: 0 auto;
   background: antiquewhite;
   display: flex;
@@ -34,6 +34,49 @@ nav {
   justify-content: center;
   align-items: center;
 }
+
+/************************************************/
+
+.btn-categories {
+  background: rgb(45, 231, 28);
+  color: white;
+  border: none;
+  width: 130px;
+  height: 40px;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.position-categorias {
+  position: relative;
+}
+
+#menu-categorias {
+  width: 130px;
+  text-align: center;
+  position: absolute;
+  top: 40px;
+  left: 0;
+  z-index: 10;
+}
+
+#menu-categorias li {
+  margin: 10px 0;
+  height: 30px;
+  border-bottom: 1px solid black;;
+  cursor: pointer;
+}
+
+.oculto {
+  display: none;
+}
+
+
+
+
+
+
+/************************************************/
 
 body {
   position: relative;
