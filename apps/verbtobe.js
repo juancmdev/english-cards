@@ -1,16 +1,16 @@
-import { verbtobe, prueba } from "../database/verbtobe.js;
+import { verbtobe, prueba } from "../database/verbtobe.js";
 
-const lista = document.querySelector("#lista-vocabulary");
-const template = document.querySelector("#template-vocabulary").content;
+const lista = document.querySelector("#lista-verbtobe");
+const template = document.querySelector("#template-verbtobe").content;
 
 const fragment = document.createDocumentFragment();
 
-prueba.forEach((vocabulary_word) => {
+prueba.forEach((tobe) => {
   template.querySelector(".lista .card .front h2").textContent =
-    vocabulary_word.front;
-  template.querySelector(".lista .back h2").textContent = vocabulary_word.back;
+    tobe.front;
+  template.querySelector(".lista .back h2").textContent = tobe.back;
   template.querySelector(".lista .back h3").textContent =
-    vocabulary_word.example;
+    tobe.example;
 
   const clone = template.cloneNode(true);
   fragment.appendChild(clone);
