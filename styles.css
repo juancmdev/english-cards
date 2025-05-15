@@ -38,10 +38,10 @@ nav {
 
 /************************************************/
 
-button {
-  background: rgb(45, 231, 28);
-  color: white;
+.btn-categories {
+  color: black;
   border: none;
+  border-radius: 5px;
   width: 150px;
   height: 40px;
   padding: 10px;
