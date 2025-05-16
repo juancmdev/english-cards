@@ -1,35 +1,35 @@
 export const verbtobe = [
   {
-    front: "I am",
-    back: "Yo soy o Yo estoy",
+    front: "Yo soy o Yo estoy",
+    back: "I am",
   },
   {
-    front: "You are",
-    back: "Tú eres o Tú estás",
+    front: "Tú eres o Tú estás",
+    back: "You are",
   },
   {
-    front: "He is",
-    back: "Él es o Él está",
+    front: "Él es o Él está",
+    back: "He is",
   },
   {
-    front: "She is",
-    back: "Ella es o Ella está",
+    front: "Ella es o Ella está",
+    back: "She is",
   },
   {
-    front: "It is",
-    back: "Eso es o Eso está",
+    front: "Eso es o Eso está",
+    back: "It is",
   },
   {
-    front: "We are",
-    back: "Nosotros somos o Nosotros estamos",
+    front: "Nosotros somos o Nosotros estamos",
+    back: "We are",
   },
   {
-    front: "You are",
-    back: "Nosotros somos o Nosotros estamos",
+    front: "Ustedes son o ustedes están",
+    back: "You are",
   },
   {
-    front: "They are",
-    back: "Ellos son o Ellos están",
+    front: "Ellos son o Ellos están",
+    back: "They are",
   },
 ];
 
