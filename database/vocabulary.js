@@ -423,6 +423,38 @@ export const vocabulary = [
     front: "Hija",
     back: "Daughter",
   },
+  {
+    front: "Yo soy o estoy",
+    back: "I am",
+  },
+  {
+    front: "Tú eres o estás",
+    back: "You are",
+  },
+  {
+    front: "Él es o está",
+    back: "He is",
+  },
+  {
+    front: "Ella es o está",
+    back: "She is",
+  },
+  {
+    front: "Eso es o está",
+    back: "It is",
+  },
+  {
+    front: "Nosotros somos o estamos",
+    back: "We are",
+  },
+  {
+    front: "Ustedes son o están",
+    back: "You are",
+  },
+  {
+    front: "Ellos son o están",
+    back: "They are",
+  },
 ];
 
 function shuffleArray(array) {
