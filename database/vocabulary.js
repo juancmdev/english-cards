@@ -455,6 +455,22 @@ export const vocabulary = [
     front: "Ellos son o están",
     back: "They are",
   },
+  {
+    front: "Pensar",
+    back: "Think",
+  },
+  {
+    front: "Derrochar",
+    back: "Waste",
+  },
+  {
+    front: "Agua",
+    back: "Water",
+  },
+  {
+    front: "Reutilizar",
+    back: "Re-use",
+  },
 ];
 
 function shuffleArray(array) {
