@@ -4,17 +4,12 @@ export const vocabulary = [
     back: "Should",
   },
   {
-    front: " No Debería",
-    back: "Shouldn´t or Should not",
+    front: "No Debería",
+    back: "Shouldn't or Should not",
   },
   {
     front: "Comida Saludable",
     back: "Healthy Food",
-  },
-  {
-    front: "Tener que (obligación)",
-    back: "Have to",
-    example: "I have to eat",
   },
   {
     front: "Manzana",
@@ -100,12 +95,12 @@ export const vocabulary = [
     back: "Coconut",
   },
   {
-    front: "Realmete me gusta",
-    back: "I realy like",
+    front: "Realmente me gusta",
+    back: "I really like",
   },
   {
     front: "No me gusta",
-    back: "I don´t like",
+    back: "I don't like",
   },
   {
     front: "Huevo",
@@ -129,7 +124,7 @@ export const vocabulary = [
   },
   {
     front: "Café",
-    back: "Coffe",
+    back: "Coffee",
   },
   {
     front: "Leche",
@@ -184,276 +179,8 @@ export const vocabulary = [
     back: "Soda",
   },
   {
-    front: "Demaciado",
-    back: "Too much",
-  },
-  {
-    front: "Beber",
-    back: "Drink",
-  },
-  {
-    front: "Porque",
-    back: "Because",
-  },
-  {
-    front: "Con qué frecuencia",
-    back: "How Often",
-  },
-  {
-    front: "Siempre",
-    back: "Always",
-  },
-  {
-    front: "Usualmente",
-    back: "Usually",
-  },
-  {
-    front: "Algunas veces",
-    back: "Sometimes",
-  },
-  {
-    front: "Cena",
-    back: "Dinner",
-  },
-  {
-    front: "Rara vez",
-    back: "Seldom",
-  },
-  {
-    front: "Vitaminas",
-    back: "Vitamins",
-  },
-  {
-    front: "Carbohidratos",
-    back: "Carbohidrates",
-  },
-  {
-    front: "Energía",
-    back: "Energy",
-  },
-  {
-    front: "Proteínas",
-    back: "Proteins",
-  },
-  {
-    front: "Calcio",
-    back: "Calium",
-  },
-  {
-    front: "Grasa",
-    back: "Fat",
-  },
-  {
-    front: "Aceite",
-    back: "Oil",
-  },
-  {
-    front: "Tienda",
-    back: "Store",
-  },
-  {
-    front: "Reserva de Energía",
-    back: "Energy Store",
-  },
-  {
-    front: "Menú",
-    back: "Menu",
-  },
-  {
-    front: "Platos Principales",
-    back: "Main Dishes",
-  },
-  {
-    front: "Postre",
-    back: "Dessert",
-  },
-  {
-    front: "Restaurante",
-    back: "Restaurant",
-  },
-  {
-    front: "Pezcado",
-    back: "Fish",
-  },
-  {
-    front: "Lentejas",
-    back: "Lentils",
-  },
-  {
-    front: "Músculo",
-    back: "Muscle",
-  },
-  {
-    front: "Gustar",
-    back: "Like",
-  },
-  {
-    front: "Comer",
-    back: "Eat",
-  },
-  {
-    front: "Comida",
-    back: "Food",
-  },
-  {
-    front: "Entonces",
-    back: "So",
-  },
-  {
-    front: "Realmente",
-    back: "Really",
-  },
-  {
-    front: "Malsano",
-    back: "Unhealthy",
-  },
-  {
-    front: "Estilo de vida",
-    back: "Lifestyle",
-  },
-  {
-    front: "Ellos",
-    back: "They",
-  },
-  {
-    front: "Cada día",
-    back: "Everyday",
-  },
-  {
-    front: "Azúcar",
-    back: "Sugar",
-  },
-  {
-    front: "Pollo",
-    back: "Chicken",
-  },
-  {
-    front: "Y",
-    back: "And",
-  },
-  {
-    front: "Él (Animal o cosa)",
-    back: "It",
-  },
-  {
-    front: "Amar",
-    back: "Love",
-  },
-  {
-    front: "Dolor de estómago",
-    back: "Stomachache",
-  },
-  {
-    front: "Hermana",
-    back: "Sister",
-  },
-  {
-    front: "Odiar",
-    back: "Hate",
-  },
-  {
-    front: "Hermano",
-    back: "Brother",
-  },
-  {
-    front: "Ambriento",
-    back: "Hungry",
-  },
-  {
-    front: "Gripa",
-    back: "Flu",
-  },
-  {
-    front: "Él (Persona)",
-    back: "He",
-  },
-  {
-    front: "Ella",
-    back: "She",
-  },
-  {
-    front: "Tú, ustedes",
-    back: "You",
-  },
-  {
-    front: "Yo",
-    back: "I",
-  },
-  {
-    front: "Nosotros",
-    back: "We",
-  },
-  {
-    front: "Ellos",
-    back: "They",
-  },
-  {
-    front: "Dolor de dientes",
-    back: "Toothache",
-  },
-  {
-    front: "Dentista",
-    back: "Dentist",
-  },
-  {
-    front: "Abuelo",
-    back: "Grandfather, Grandpa",
-  },
-  {
-    front: "Diabetes",
-    back: "Diabetes",
-  },
-  {
-    front: "Ataque al corazón",
-    back: "Heart attack",
-  },
-  {
-    front: "Primo",
-    back: "Cousin",
-  },
-  {
-    front: "Presión arterial alta",
-    back: "High blood pressure",
-  },
-  {
-    front: "Hijo",
-    back: "Son",
-  },
-  {
-    front: "Hija",
-    back: "Daughter",
-  },
-  {
-    front: "Yo soy o estoy",
-    back: "I am",
-  },
-  {
-    front: "Tú eres o estás",
-    back: "You are",
-  },
-  {
-    front: "Él es o está",
-    back: "He is",
-  },
-  {
-    front: "Ella es o está",
-    back: "She is",
-  },
-  {
-    front: "Eso es o está",
-    back: "It is",
-  },
-  {
-    front: "Nosotros somos o estamos",
-    back: "We are",
-  },
-  {
-    front: "Ustedes son o están",
-    back: "You are",
-  },
-  {
-    front: "Ellos son o están",
-    back: "They are",
+    front: "Demasiado",
+    back: "Too much", // Demasiado
   },
   {
     front: "Pensar",
@@ -470,6 +197,398 @@ export const vocabulary = [
   {
     front: "Reutilizar",
     back: "Re-use",
+  },
+  {
+    front: "Reciclar",
+    back: "Recycle",
+  },
+  {
+    front: "Viejo",
+    back: "Old",
+  },
+  {
+    front: "Caja",
+    back: "Box",
+  },
+  {
+    front: "Cajas",
+    back: "Boxes",
+  },
+  {
+    front: "Plástico",
+    back: "Plastic",
+  },
+  {
+    front: "Botella",
+    back: "Bottle",
+  },
+  {
+    front: "Ayuda",
+    back: "Help",
+  },
+  {
+    front: "Querer",
+    back: "Want",
+  },
+  {
+    front: "Polución",
+    back: "Pollution",
+  },
+  {
+    front: "Expresiones",
+    back: "Expressions",
+  },
+  {
+    front: "Promover",
+    back: "Promote",
+  },
+  {
+    front: "Acciones",
+    back: "Actions",
+  },
+  {
+    front: "Preocupado/a",
+    back: "Worried",
+  },
+  {
+    front: "Decepsionado",
+    back: "Disappointed",
+  },
+  {
+    front: "Asustado",
+    back: "Scared",
+  },
+  {
+    front: "Optimista",
+    back: "Optimistic",
+  },
+  {
+    front: "Hábitat",
+    back: "Habitat",
+  },
+  {
+    front: "Ecosistema",
+    back: "Ecosystem",
+  },
+  {
+    front: "Plantas",
+    back: "Plants",
+  },
+  {
+    front: "Reconocer",
+    back: "Recognize",
+  },
+  {
+    front: "Hoy",
+    back: "Today",
+  },
+  {
+    front: "Mañana",
+    back: "Tomorrow",
+  },
+  {
+    front: "Lunes",
+    back: "Monday",
+  },
+  {
+    front: "Martes",
+    back: "Tuesday",
+  },
+  {
+    front: "Miércoles",
+    back: "Wednesday",
+  },
+  {
+    front: "Jueves",
+    back: "Thursday",
+  },
+  {
+    front: "Viernes",
+    back: "Friday",
+  },
+  {
+    front: "Sábado",
+    back: "Saturday",
+  },
+  {
+    front: "Domingo",
+    back: "Sunday",
+  },
+  {
+    front: "Semana",
+    back: "Week",
+  },
+  {
+    front: "Mes",
+    back: "Month",
+  },
+  {
+    front: "Año",
+    back: "Year",
+  },
+  {
+    front: "Enero",
+    back: "January",
+  },
+  {
+    front: "Febrero",
+    back: "February",
+  },
+  {
+    front: "Marzo",
+    back: "March",
+  },
+  {
+    front: "Abril",
+    back: "April",
+  },
+  {
+    front: "Mayo",
+    back: "May",
+  },
+  {
+    front: "Junio",
+    back: "June",
+  },
+  {
+    front: "Julio",
+    back: "July",
+  },
+  {
+    front: "Agosto",
+    back: "August",
+  },
+  {
+    front: "Septiembre",
+    back: "September",
+  },
+  {
+    front: "Octubre",
+    back: "October",
+  },
+  {
+    front: "Noviembre",
+    back: "November",
+  },
+  {
+    front: "Diciembre",
+    back: "December",
+  },
+  {
+    front: "Equipo",
+    back: "Team",
+  },
+  {
+    front: "Ortografía",
+    back: "Spelling",
+  },
+  {
+    front: "Pronunciación",
+    back: "Pronunciation",
+  },
+  {
+    front: "Gramática",
+    back: "Grammar",
+  },
+  {
+    front: "Vocabulario",
+    back: "Vocabulary",
+  },
+  {
+    front: "Escuchar",
+    back: "Listen",
+  },
+  {
+    front: "Hablar",
+    back: "Speak",
+  },
+  {
+    front: "Leer",
+    back: "Read",
+  },
+  {
+    front: "Escribir",
+    back: "Write",
+  },
+  {
+    front: "Estudiar",
+    back: "Study",
+  },
+  {
+    front: "Aprender",
+    back: "Learn",
+  },
+  {
+    front: "Practicar",
+    back: "Practice",
+  },
+  {
+    front: "Haber o tener",
+    back: "Have",
+  },
+  {
+    front: "Ser o estar",
+    back: "Be",
+  },
+  {
+    front: "Hacer",
+    back: "Do",
+  },
+  {
+    front: "Ir",
+    back: "Go",
+  },
+  {
+    front: "Decir",
+    back: "Say",
+  },
+  {
+    front: "Ver",
+    back: "See",
+  },
+  {
+    front: "Comer",
+    back: "Eat",
+  },
+  {
+    front: "Beber o tomar",
+    back: "Drink",
+  },
+  {
+    front: "Dormir",
+    back: "Sleep",
+  },
+  {
+    front: "Jugar",
+    back: "Play",
+  },
+  {
+    front: "Amarillo",
+    back: "Yellow",
+  },
+  {
+    front: "Rojo",
+    back: "Red",
+  },
+  {
+    front: "Azul",
+    back: "Blue",
+  },
+  {
+    front: "Verde",
+    back: "Green",
+  },
+  {
+    front: "Naranja",
+    back: "Orange",
+  },
+  {
+    front: "Morado",
+    back: "Purple",
+  },
+  {
+    front: "Rosa",
+    back: "Pink",
+  },
+  {
+    front: "Ojos",
+    back: "Eyes",
+  },
+  {
+    front: "Nariz",
+    back: "Nose",
+  },
+  {
+    front: "Boca",
+    back: "Mouth",
+  },
+  {
+    front: "Orejas",
+    back: "Ears",
+  },
+  {
+    front: "Manos",
+    back: "Hands",
+  },
+  {
+    front: "Pies",
+    back: "Feet",
+  },
+  {
+    front: "Cabeza",
+    back: "Head",
+  },
+  {
+    front: "Cabello o pelo",
+    back: "Hair",
+  },
+  {
+    front: "Cara",
+    back: "Face",
+  },
+  {
+    front: "Cuerpo",
+    back: "Body",
+  },
+  {
+    front: "Corazón",
+    back: "Heart",
+  },
+  {
+    front: "Estómago o barriga",
+    back: "Stomach or Belly",
+  },
+  {
+    front: "Brazo",
+    back: "Arm",
+  },
+  {
+    front: "Pierna",
+    back: "Legs",
+  },
+  {
+    front: "Cejas",
+    back: "Eyebrows",
+  },
+  {
+    front: "Pestañas",
+    back: "Eyelashes",
+  },
+  {
+    front: "Dedo",
+    back: "Finger",
+  },
+  {
+    front: "Dientes",
+    back: "Teeth",
+  },
+  {
+    front: "Lengua",
+    back: "Tongue",
+  },
+  {
+    front: "Codo",
+    back: "Elbow",
+  },
+  {
+    front: "Rodilla",
+    back: "Knee",
+  },
+  {
+    front: "Hombro",
+    back: "Shoulder",
+  },
+  {
+    front: "Cadera o coxis",
+    back: "Hip or Coccyx",
+  },
+  {
+    front: "Tobillo",
+    back: "Ankle",
+  },
+  {
+    front: "Muñeca",
+    back: "Wrist",
   },
 ];
 
