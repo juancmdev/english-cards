@@ -974,6 +974,434 @@ export const vocabulary = [
     front: "Diversión",
     back: "Fun",
   },
+  {
+    front: "Oraciones",
+    back: "Sentences",
+  },
+  {
+    front: "Español",
+    back: "Spanish",
+  },
+  {
+    front: "Profesor",
+    back: "Teacher",
+  },
+  {
+    front: "Estudiante",
+    back: "Student",
+  },
+  {
+    front: "Clase",
+    back: "Class",
+  },
+  {
+    front: "Escuela",
+    back: "School",
+  },
+  {
+    front: "Universidad",
+    back: "University",
+  },
+  {
+    front: "Libro",
+    back: "Book",
+  },
+  {
+    front: "Cuaderno",
+    back: "Notebook",
+  },
+  {
+    front: "Lápiz",
+    back: "Pencil",
+  },
+  {
+    front: "Lapicero",
+    back: "Pen",
+  },
+  {
+    front: "Borrador",
+    back: "Eraser",
+  },
+  {
+    front: "Mesa",
+    back: "Desk",
+  },
+  {
+    front: "Escritorio",
+    back: "Desk",
+  },
+  {
+    front: "Silla",
+    back: "Chair",
+  },
+  {
+    front: "Creativo",
+    back: "Creative",
+  },
+  {
+    front: "Matemáticas",
+    back: "Math",
+  },
+  {
+    front: "Curioso",
+    back: "Curious",
+  },
+  {
+    front: "Mejor Amigo",
+    back: "Best Friend",
+  },
+  {
+    front: "Honesto",
+    back: "Honest",
+  },
+  {
+    front: "Inteligente",
+    back: "Smart",
+  },
+  {
+    front: "Personalidad",
+    back: "Personality",
+  },
+  {
+    front: "Amable",
+    back: "Kind",
+  },
+  {
+    front: "Divertido",
+    back: "Funny",
+  },
+  {
+    front: "Simpático",
+    back: "Nice",
+  },
+  {
+    front: "Amoroso",
+    back: "Loving",
+  },
+  {
+    front: "Alegre",
+    back: "Cheerful",
+  },
+  {
+    front: "Generoso",
+    back: "Generous",
+  },
+  {
+    front: "Paciente",
+    back: "Patient",
+  },
+  {
+    front: "Respetuoso",
+    back: "Respectful",
+  },
+  {
+    front: "Responsable",
+    back: "Responsible",
+  },
+  {
+    front: "Mamá",
+    back: "Mother",
+  },
+  {
+    front: "Papá",
+    back: "Father",
+  },
+  {
+    front: "Hermano",
+    back: "Brother",
+  },
+  {
+    front: "Hermana",
+    back: "Sister",
+  },
+  {
+    front: "Hijo",
+    back: "Son",
+  },
+  {
+    front: "Hija",
+    back: "Daughter",
+  },
+  {
+    front: "Abuelo",
+    back: "Grandfather",
+  },
+  {
+    front: "Abuela",
+    back: "Grandmother",
+  },
+  {
+    front: "Tío",
+    back: "Uncle",
+  },
+  {
+    front: "Tía",
+    back: "Aunt",
+  },
+  {
+    front: "Primo",
+    back: "Cousin",
+  },
+  {
+    front: "Hermoso o hermosa",
+    back: "Beautiful",
+  },
+  {
+    front: "Largo",
+    back: "Long",
+  },
+  {
+    front: "Corto",
+    back: "Short",
+  },
+  {
+    front: "Alto",
+    back: "Tall",
+  },
+  {
+    front: "En forma",
+    back: "Fit",
+  },
+  {
+    front: "Vegetales",
+    back: "Vegetables",
+  },
+  {
+    front: "Saludable",
+    back: "Healthy",
+  },
+  {
+    front: "Por qué",
+    back: "Why",
+  },
+  {
+    front: "Porque",
+    back: "Because",
+  },
+  {
+    front: "Cómo",
+    back: "How",
+  },
+  {
+    front: "Qué",
+    back: "What",
+  },
+  {
+    front: "Quién",
+    back: "Who",
+  },
+  {
+    front: "Cuándo",
+    back: "When",
+  },
+  {
+    front: "Dónde",
+    back: "Where",
+  },
+  {
+    front: "Cuál",
+    back: "Which",
+  },
+  {
+    front: "Cuánto",
+    back: "How much",
+  },
+  {
+    front: "Cuántos",
+    back: "How many",
+  },
+  {
+    front: "Gustar",
+    back: "Like",
+  },
+  {
+    front: "Bueno",
+    back: "Good",
+  },
+  {
+    front: "Malo",
+    back: "Bad",
+  },
+  {
+    front: "Mejor",
+    back: "Better",
+  },
+  {
+    front: "Peor",
+    back: "Worse",
+  },
+  {
+    front: "Más",
+    back: "More",
+  },
+  {
+    front: "Menos",
+    back: "Less",
+  },
+  {
+    front: "Rápido",
+    back: "Fast",
+  },
+  {
+    front: "Lento",
+    back: "Slow",
+  },
+  {
+    front: "Fuerte",
+    back: "Strong",
+  },
+  {
+    front: "Débil",
+    back: "Weak",
+  },
+  {
+    front: "Opinión",
+    back: "Opinion",
+  },
+  {
+    front: "Clase",
+    back: "Class",
+  },
+  {
+    front: "Pregunta",
+    back: "Question",
+  },
+  {
+    front: "Respuesta",
+    back: "Answer",
+  },
+  {
+    front: "Explicar",
+    back: "Explain",
+  },
+  {
+    front: "Entender",
+    back: "Understand",
+  },
+  {
+    front: "Ayudar",
+    back: "Help",
+  },
+  {
+    front: "Escuchar",
+    back: "Listen",
+  },
+  {
+    front: "Hablar",
+    back: "Speak",
+  },
+  {
+    front: "Leer",
+    back: "Read",
+  },
+  {
+    front: "Escribir",
+    back: "Write",
+  },
+  {
+    front: "Estudiar",
+    back: "Study",
+  },
+  {
+    front: "Aprender",
+    back: "Learn",
+  },
+  {
+    front: "Practicar",
+    back: "Practice",
+  },
+  {
+    front: "Terrible",
+    back: "Terrible",
+  },
+  {
+    front: "Horrible",
+    back: "Horrible",
+  },
+  {
+    front: "Aburrido",
+    back: "Boring",
+  },
+  {
+    front: "Divertido",
+    back: "Fun",
+  },
+  {
+    front: "Fácil",
+    back: "Easy",
+  },
+  {
+    front: "Difícil",
+    back: "Difficult",
+  },
+  {
+    front: "Interesante",
+    back: "Interesting",
+  },
+  {
+    front: "Increíble",
+    back: "Amazing",
+  },
+  {
+    front: "Fantástico",
+    back: "Fantastic",
+  },
+  {
+    front: "Excelente",
+    back: "Excellent",
+  },
+  {
+    front: "Genial",
+    back: "Great",
+  },
+  {
+    front: "Maravilloso",
+    back: "Wonderful",
+  },
+  {
+    front: "Asombroso",
+    back: "Awesome",
+  },
+  {
+    front: "fácil",
+    back: "Easy",
+  },
+  {
+    front: "Difícil",
+    back: "Difficult",
+  },
+  {
+    front: "Positivo",
+    back: "Positive",
+  },
+  {
+    front: "Negativo",
+    back: "Negative",
+  },
+  {
+    front: "Yo pienso",
+    back: "I think",
+  },
+  {
+    front: "En mi opinión",
+    back: "In my opinion",
+  },
+  {
+    front: "Me gusta",
+    back: "I like",
+  },
+  {
+    front: "No me gusta",
+    back: "I don't like",
+  },
+  {
+    front: "Estoy de acuerdo",
+    back: "I agree",
+  },
+  {
+    front: "No estoy de acuerdo",
+    back: " I don't agree",
+  },
 ];
 
 function shuffleArray(array) {
