@@ -491,6 +491,14 @@ export const vocabulary = [
     back: "Pink",
   },
   {
+    front: "Gris",
+    back: "Gray",
+  },
+  {
+    front: "Negro",
+    back: "Black",
+  },
+  {
     front: "Ojos",
     back: "Eyes",
   },
@@ -589,6 +597,382 @@ export const vocabulary = [
   {
     front: "Muñeca",
     back: "Wrist",
+  },
+  {
+    front: "Rubio",
+    back: "Blonde",
+  },
+  {
+    front: "Gafas",
+    back: "Glasses",
+  },
+  {
+    front: "Leopardo",
+    back: "Leopard",
+  },
+  {
+    front: "Tigre",
+    back: "Tiger",
+  },
+  {
+    front: "Elefante",
+    back: "Elephant",
+  },
+  {
+    front: "Jirafa",
+    back: "Giraffe",
+  },
+  {
+    front: "Cebra",
+    back: "Zebra",
+  },
+  {
+    front: "Mono",
+    back: "Monkey",
+  },
+  {
+    front: "Cocodrilo",
+    back: "Crocodile",
+  },
+  {
+    front: "Serpiente",
+    back: "Snake",
+  },
+  {
+    front: "Pez",
+    back: "Fish",
+  },
+  {
+    front: "Pájaro",
+    back: "Bird",
+  },
+  {
+    front: "Perro",
+    back: "Dog",
+  },
+  {
+    front: "Gato",
+    back: "Cat",
+  },
+  {
+    front: "Caballo",
+    back: "Horse",
+  },
+  {
+    front: "Vaca",
+    back: "Cow",
+  },
+  {
+    front: "Oveja",
+    back: "Sheep",
+  },
+  {
+    front: "Cerdo o puerco",
+    back: "Pig",
+  },
+  {
+    front: "Conejo",
+    back: "Rabbit",
+  },
+  {
+    front: "Ratón o rata",
+    back: "Mouse or Rat",
+  },
+  {
+    front: "Tortuga",
+    back: "Turtle or Tortoise",
+  },
+  {
+    front: "Mariposa",
+    back: "Butterfly",
+  },
+  {
+    front: "Araña",
+    back: "Spider",
+  },
+  {
+    front: "Hormiga",
+    back: "Ant",
+  },
+  {
+    front: "Abeja",
+    back: "Bee",
+  },
+  {
+    front: "Mosca",
+    back: "Fly",
+  },
+  {
+    front: "Mosquito",
+    back: "Mosquito",
+  },
+  {
+    front: "Cangrejo",
+    back: "Crab",
+  },
+  {
+    front: "Langosta o bogavante",
+    back: "Lobster or Crayfish",
+  },
+  {
+    front: "Pulpo o octópodo",
+    back: "Octopus",
+  },
+  {
+    front: "Barba",
+    back: "Beard",
+  },
+  {
+    front: "Camiseta",
+    back: "T-shirt",
+  },
+  {
+    front: "Camisa",
+    back: "Shirt",
+  },
+  {
+    front: "Pantalón",
+    back: "Pants",
+  },
+  {
+    front: "Pantaloneta",
+    back: "Shorts",
+  },
+  {
+    front: "Zapatos",
+    back: "Shoes",
+  },
+  {
+    front: "Medias",
+    back: "Socks",
+  },
+  {
+    front: "Blusa",
+    back: "Blouse",
+  },
+  {
+    front: "Yo tengo",
+    back: "I have",
+  },
+  {
+    front: "Tú tienes",
+    back: "You have",
+  },
+  {
+    front: "Él tiene",
+    back: "He has",
+  },
+  {
+    front: "Ella tiene",
+    back: "She has",
+  },
+  {
+    front: "Eso tiene",
+    back: "It has",
+  },
+  {
+    front: "Ustedes tienen",
+    back: " You have",
+  },
+  {
+    front: "Nosotros tenemos",
+    back: "We have",
+  },
+  {
+    front: "Ellos tienen",
+    back: "They have",
+  },
+  {
+    front: "Yo soy o yo estoy",
+    back: "I am",
+  },
+  {
+    front: "Túe eres o tú estás",
+    back: "You are",
+  },
+  {
+    front: "Él es o él está",
+    back: "He is",
+  },
+  {
+    front: "Ella es o ella está",
+    back: "She is",
+  },
+  {
+    front: "Eso es o eso está",
+    back: "It is",
+  },
+  {
+    front: "Ustedes son o ustedes están",
+    back: "You are",
+  },
+  {
+    front: "Nosotros somos o nosotros estamos",
+    back: "We are",
+  },
+  {
+    front: "Ellos son o ellos están",
+    back: "They are",
+  },
+  {
+    front: "Bicicleta",
+    back: "Byke",
+  },
+  {
+    front: "Motocicleta",
+    back: "Motorcycle",
+  },
+  {
+    front: "Carro o coche",
+    back: "Car",
+  },
+  {
+    front: "Autobús",
+    back: "Bus",
+  },
+  {
+    front: "Avión",
+    back: "Airplane",
+  },
+  {
+    front: "Barco",
+    back: "Boat",
+  },
+  {
+    front: "Tren",
+    back: "Train",
+  },
+  {
+    front: "Camión",
+    back: "Truck",
+  },
+  {
+    front: "Helicóptero",
+    back: "Helicopter",
+  },
+  {
+    front: "Submarino",
+    back: "Submarine",
+  },
+  {
+    front: "Mirar, ver o observar",
+    back: "Watch",
+  },
+  {
+    front: "Reloj",
+    back: "Watch",
+  },
+  {
+    front: "Reloj de pared",
+    back: "Clock",
+  },
+  {
+    front: "Película",
+    back: "Movie",
+  },
+  {
+    front: "Programa de televisión",
+    back: "TV Show",
+  },
+  {
+    front: "Música",
+    back: "Music",
+  },
+  {
+    front: "Canción",
+    back: "Song",
+  },
+  {
+    front: "Cantar",
+    back: "Sing",
+  },
+  {
+    front: "Bailar",
+    back: "Dance",
+  },
+  {
+    front: "Instrumento",
+    back: "Instrument",
+  },
+  {
+    front: "Guitarra",
+    back: "Guitar",
+  },
+  {
+    front: "Piano",
+    back: "Piano",
+  },
+  {
+    front: "Batería",
+    back: "Drums",
+  },
+  {
+    front: "Flauta",
+    back: "Flute",
+  },
+  {
+    front: "Violín",
+    back: "Violin",
+  },
+  {
+    front: "Trompeta",
+    back: "Trumpet",
+  },
+  {
+    front: "Interesante",
+    back: "Interesting",
+  },
+  {
+    front: "Aburrido",
+    back: "Boring",
+  },
+  {
+    front: "Fácil",
+    back: "Easy",
+  },
+  {
+    front: "Difícil",
+    back: "Difficult",
+  },
+  {
+    front: "Divertido",
+    back: "Fun",
+  },
+  {
+    front: "Triste",
+    back: "Sad",
+  },
+  {
+    front: "Feliz o contento",
+    back: "Happy",
+  },
+  {
+    front: "Enojado o enfadado",
+    back: "Angry or Mad",
+  },
+  {
+    front: "Sorpresa o sorprendido",
+    back: "Surprise or Surprised",
+  },
+  {
+    front: "Cansado",
+    back: "Tired",
+  },
+  {
+    front: "Viajar",
+    back: "Travel",
+  },
+  {
+    front: "Viaje",
+    back: "Trip",
+  },
+  {
+    front: "Videojuego",
+    back: "Video Game",
+  },
+  {
+    front: "Diversión",
+    back: "Fun",
   },
 ];
 
