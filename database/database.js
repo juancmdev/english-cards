@@ -71,6 +71,12 @@ export const front_pages = [
     alt: "Words of the week page image",
     text: "Words of the week",
   },
+  {
+    a: "/pages/giving_opinions.html",
+    img: "/imgs/giving_opinions/giving_opinions.png",
+    alt: "Giving opinions page image",
+    text: "Giving Opinions",
+  },
 ];
 
 export const animals = [

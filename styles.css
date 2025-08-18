@@ -139,7 +139,8 @@ ul {
 #lista-vocabulary,
 #lista-personal_pronouns,
 #lista-words-of-the-week,
-#lista-verbtobe {
+#lista-verbtobe,
+#lista-givingOpinions {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
   gap: 40px;

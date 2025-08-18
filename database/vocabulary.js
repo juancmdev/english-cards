@@ -947,12 +947,12 @@ export const vocabulary = [
     back: "Happy",
   },
   {
-    front: "Enojado o enfadado",
-    back: "Angry or Mad",
+    front: "Enojado",
+    back: "Angry",
   },
   {
-    front: "Sorpresa o sorprendido",
-    back: "Surprise or Surprised",
+    front: "Sorpresa",
+    back: "Surprise",
   },
   {
     front: "Cansado",
@@ -1401,6 +1401,264 @@ export const vocabulary = [
   {
     front: "No estoy de acuerdo",
     back: " I don't agree",
+  },
+  {
+    front: "Fácil",
+    back: "Easy",
+  },
+  {
+    front: "Difícil",
+    back: "Difficult",
+  },
+  {
+    front: "Rápido",
+    back: "Fast",
+  },
+  {
+    front: "Lento",
+    back: "Slow",
+  },
+  {
+    front: "Fuerte",
+    back: "Strong",
+  },
+  {
+    front: "Débil",
+    back: "Weak",
+  },
+  {
+    front: "Cerca",
+    back: "Near",
+  },
+  {
+    front: "Lejos",
+    back: "Far",
+  },
+  {
+    front: "Alto",
+    back: "High or Tall",
+  },
+  {
+    front: "Bajo",
+    back: "Low or Short",
+  },
+  {
+    front: "Independencia",
+    back: "Independence",
+  },
+  {
+    front: "Enero",
+    back: "January",
+  },
+  {
+    front: "Febrero",
+    back: "February",
+  },
+  {
+    front: "Marzo",
+    back: "March",
+  },
+  {
+    front: "Abril",
+    back: "April",
+  },
+  {
+    front: "Mayo",
+    back: "May",
+  },
+  {
+    front: "Junio",
+    back: "June",
+  },
+  {
+    front: "Julio",
+    back: "July",
+  },
+  {
+    front: "Agosto",
+    back: "August",
+  },
+  {
+    front: "Septiembre",
+    back: "September",
+  },
+  {
+    front: "Octubre",
+    back: "October",
+  },
+  {
+    front: "Noviembre",
+    back: "November",
+  },
+  {
+    front: "Diciembre",
+    back: "December",
+  },
+  {
+    front: "Olvidar",
+    back: "Forget",
+  },
+  {
+    front: "Traer",
+    back: "Bring",
+  },
+  {
+    front: "Papel",
+    back: "Paper",
+  },
+  {
+    front: "Computadora",
+    back: "Computer",
+  },
+  {
+    front: "Cuaderno",
+    back: "Notebook",
+  },
+  {
+    front: "Hablar",
+    back: "Speak",
+  },
+  {
+    front: "Escuchar",
+    back: "Listen",
+  },
+  {
+    front: "Leer",
+    back: "Read",
+  },
+  {
+    front: "Escribir",
+    back: "Write",
+  },
+  {
+    front: "Estudiar",
+    back: "Study",
+  },
+  {
+    front: "Empujar",
+    back: "Push",
+  },
+  {
+    front: "Tomar",
+    back: "Take",
+  },
+  {
+    front: "Berer",
+    back: "Drink",
+  },
+  {
+    front: "Error",
+    back: "Mistake",
+  },
+  {
+    front: "Primero",
+    back: "First",
+  },
+  {
+    front: "Último",
+    back: "Last",
+  },
+  {
+    front: "Segundo",
+    back: "Second",
+  },
+  {
+    front: "Tercero",
+    back: "Third",
+  },
+  //Vocabulary to say sorry
+  {
+    front: "Lo siento",
+    back: "I'm sorry",
+  },
+  { front: "Fue un accidente", back: "It was an accident" },
+  {
+    front: "I didn't mean to",
+    back: "No fue mi intención",
+  },
+  {
+    front: "Está bien",
+    back: "It's okay",
+  },
+  {
+    front: "No te preocupes",
+    back: "Don't worry",
+  },
+  {
+    front: "Se cuidadoso",
+    back: "Be careful",
+  },
+  {
+    front: "Estás bien",
+    back: "Are you okay?",
+  },
+  {
+    front: "Pollo",
+    back: "Chicken",
+  },
+  {
+    front: "Yogur",
+    back: "Yogurt",
+  },
+  {
+    front: "Valiente",
+    back: "Brave",
+  },
+  {
+    front: "Arrugas",
+    back: "Wrinkles",
+  },
+  {
+    front: "Breath",
+    back: "Respirar",
+  },
+  {
+    front: "Note",
+    back: "Nota",
+  },
+  {
+    front: "Ajedres",
+    back: "Chess",
+  },
+  {
+    front: "Quedarse en cas",
+    back: "Stay home",
+  },
+  {
+    front: "Llamar a mi amigo",
+    back: "Call my friend",
+  },
+  {
+    front: "Jugar videojuegos",
+    back: "Player Games",
+  },
+  {
+    front: "Ir a nadar",
+    back: "Go swimming",
+  },
+  {
+    front: "Fue a",
+    back: "Went to",
+  },
+  {
+    front: "Fui al cine",
+    back: "Went to the movies",
+  },
+  {
+    front: "fui de compras",
+    back: "Went shopping",
+  },
+  {
+    front: "Estudié en casa",
+    back: "I studied at home",
+  },
+  {
+    front: "Jugar con mi amigo",
+    back: "Play with my friend",
+  },
+  {
+    front: "Regordete",
+    back: "Chubby",
   },
 ];
 
