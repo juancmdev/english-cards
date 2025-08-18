@@ -1629,8 +1629,8 @@ export const vocabulary = [
     back: "Call my friend",
   },
   {
-    front: "Jugar videojuegos",
-    back: "Player Games",
+    front: "Jugar video juegos",
+    back: " Play video games",
   },
   {
     front: "Ir a nadar",
@@ -1659,6 +1659,22 @@ export const vocabulary = [
   {
     front: "Regordete",
     back: "Chubby",
+  },
+  {
+    front: "Elevar",
+    back: "Raise",
+  },
+  {
+    front: "Sonreir",
+    back: "Smile",
+  },
+  {
+    front: "Divertido",
+    back: "Funny",
+  },
+  {
+    front: "Tranquilo",
+    back: "Easy going",
   },
 ];
 
