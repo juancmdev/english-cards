@@ -21,11 +21,11 @@ lista.appendChild(fragment);
 
 //---------------Scale Cards------------------------------
 
-const scale_cards = lista.querySelectorAll("img");
+// const scale_cards = lista.querySelectorAll("img");
 
-scale_cards.forEach((scale_card) => {
-  scale_card.addEventListener("click", () => {
-    toggle_card.firstElementChild.classList.toggle("rotate-front");
-    toggle_card.lastElementChild.classList.toggle("rotate-back");
-  });
-});
+// scale_cards.forEach((scale_card) => {
+//   scale_card.addEventListener("click", () => {
+//     toggle_card.firstElementChild.classList.toggle("rotate-front");
+//     toggle_card.lastElementChild.classList.toggle("rotate-back");
+//   });
+// });

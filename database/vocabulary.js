@@ -487,7 +487,7 @@ export const vocabulary = [
     back: "Purple",
   },
   {
-    front: "Rosa",
+    front: "Rosdo",
     back: "Pink",
   },
   {
@@ -552,7 +552,7 @@ export const vocabulary = [
   },
   {
     front: "Pierna",
-    back: "Legs",
+    back: "Leg",
   },
   {
     front: "Cejas",
@@ -816,7 +816,7 @@ export const vocabulary = [
   },
   {
     front: "Bicicleta",
-    back: "Byke",
+    back: "Bike",
   },
   {
     front: "Motocicleta",
@@ -1543,7 +1543,7 @@ export const vocabulary = [
     back: "Take",
   },
   {
-    front: "Berer",
+    front: "Beber",
     back: "Drink",
   },
   {
@@ -1573,8 +1573,8 @@ export const vocabulary = [
   },
   { front: "Fue un accidente", back: "It was an accident" },
   {
-    front: "I didn't mean to",
-    back: "No fue mi intención",
+    front: "No fue mi intención",
+    back: "I didn't mean to",
   },
   {
     front: "Está bien",
@@ -1609,19 +1609,19 @@ export const vocabulary = [
     back: "Wrinkles",
   },
   {
-    front: "Breath",
-    back: "Respirar",
+    front: "Respirar",
+    back: "Breath",
   },
   {
-    front: "Note",
-    back: "Nota",
+    front: "Nota",
+    back: "Note",
   },
   {
     front: "Ajedres",
     back: "Chess",
   },
   {
-    front: "Quedarse en cas",
+    front: "Quedarse en casa",
     back: "Stay home",
   },
   {
@@ -1629,8 +1629,8 @@ export const vocabulary = [
     back: "Call my friend",
   },
   {
-    front: "Jugar video juegos",
-    back: " Play video games",
+    front: "Jugar videojuegos",
+    back: "Play video games",
   },
   {
     front: "Ir a nadar",
@@ -1645,7 +1645,7 @@ export const vocabulary = [
     back: "Went to the movies",
   },
   {
-    front: "fui de compras",
+    front: "Fui de compras",
     back: "Went shopping",
   },
   {
@@ -1674,7 +1674,63 @@ export const vocabulary = [
   },
   {
     front: "Tranquilo",
-    back: "Easy going",
+    back: "Easy-going",
+  },
+  {
+    front: "Enérgico",
+    back: "Energic",
+  },
+  {
+    front: "Trabajo duro",
+    back: "Hard Working",
+  },
+  {
+    front: "Curioso",
+    back: "Curious",
+  },
+  {
+    front: "Alegre",
+    back: "Cheerful",
+  },
+  {
+    front: "Feliz",
+    back: "Happy",
+  },
+  {
+    front: "Triste",
+    back: "Sad",
+  },
+  {
+    front: "Amable",
+    back: "Kind",
+  },
+  {
+    front: "Paciente",
+    back: "Patient",
+  },
+  {
+    front: "Respetuoso",
+    back: "Respectful",
+  },
+  {
+    front: "Puntual",
+    back: "Punctual",
+  },
+  {
+    front: "Guapo, guapa",
+    back: "Handsome",
+  },
+  {
+    front: "Ondulado",
+    back: "Wavy",
+  },
+  {
+    front: "Rizado",
+    back: "Curly",
+  },
+  {
+    front: "Pecas",
+    back: "Freckles",
   },
 ];
 

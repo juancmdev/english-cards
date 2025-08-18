@@ -6,11 +6,11 @@ const menuCategorias = document.querySelector("#menu-categorias");
 
 btnCategories.addEventListener("click", () => {
   menuCategorias.classList.remove("oculto");
-})
+});
 
 menuCategorias.addEventListener("mouseleave", () => {
   menuCategorias.classList.add("oculto");
-})
+});
 
 setTimeout(() => {
   timeout.classList.add("display");
