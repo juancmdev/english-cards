@@ -180,7 +180,7 @@ export const vocabulary = [
   },
   {
     front: "Demasiado",
-    back: "Too much", // Demasiado
+    back: "Too much",
   },
   {
     front: "Pensar",
@@ -189,10 +189,6 @@ export const vocabulary = [
   {
     front: "Derrochar",
     back: "Waste",
-  },
-  {
-    front: "Agua",
-    back: "Water",
   },
   {
     front: "Reutilizar",
@@ -229,10 +225,6 @@ export const vocabulary = [
   {
     front: "Querer",
     back: "Want",
-  },
-  {
-    front: "Polución",
-    back: "Pollution",
   },
   {
     front: "Expresiones",
@@ -403,10 +395,6 @@ export const vocabulary = [
     back: "Speak",
   },
   {
-    front: "Leer",
-    back: "Read",
-  },
-  {
     front: "Escribir",
     back: "Write",
   },
@@ -417,10 +405,6 @@ export const vocabulary = [
   {
     front: "Aprender",
     back: "Learn",
-  },
-  {
-    front: "Practicar",
-    back: "Practice",
   },
   {
     front: "Haber o tener",
@@ -615,10 +599,6 @@ export const vocabulary = [
     back: "Tiger",
   },
   {
-    front: "Elefante",
-    back: "Elephant",
-  },
-  {
     front: "Jirafa",
     back: "Giraffe",
   },
@@ -637,10 +617,6 @@ export const vocabulary = [
   {
     front: "Serpiente",
     back: "Snake",
-  },
-  {
-    front: "Pez",
-    back: "Fish",
   },
   {
     front: "Pájaro",
@@ -713,10 +689,6 @@ export const vocabulary = [
   {
     front: "Langosta o bogavante",
     back: "Lobster or Crayfish",
-  },
-  {
-    front: "Pulpo o octópodo",
-    back: "Octopus",
   },
   {
     front: "Barba",
@@ -1067,10 +1039,6 @@ export const vocabulary = [
     back: "Kind",
   },
   {
-    front: "Divertido",
-    back: "Funny",
-  },
-  {
     front: "Simpático",
     back: "Nice",
   },
@@ -1247,20 +1215,12 @@ export const vocabulary = [
     back: "Slow",
   },
   {
-    front: "Fuerte",
-    back: "Strong",
-  },
-  {
     front: "Débil",
     back: "Weak",
   },
   {
     front: "Opinión",
     back: "Opinion",
-  },
-  {
-    front: "Clase",
-    back: "Class",
   },
   {
     front: "Pregunta",
@@ -1283,30 +1243,6 @@ export const vocabulary = [
     back: "Help",
   },
   {
-    front: "Escuchar",
-    back: "Listen",
-  },
-  {
-    front: "Hablar",
-    back: "Speak",
-  },
-  {
-    front: "Leer",
-    back: "Read",
-  },
-  {
-    front: "Escribir",
-    back: "Write",
-  },
-  {
-    front: "Estudiar",
-    back: "Study",
-  },
-  {
-    front: "Aprender",
-    back: "Learn",
-  },
-  {
     front: "Practicar",
     back: "Practice",
   },
@@ -1319,24 +1255,8 @@ export const vocabulary = [
     back: "Horrible",
   },
   {
-    front: "Aburrido",
-    back: "Boring",
-  },
-  {
-    front: "Divertido",
+    front: "Diversión",
     back: "Fun",
-  },
-  {
-    front: "Fácil",
-    back: "Easy",
-  },
-  {
-    front: "Difícil",
-    back: "Difficult",
-  },
-  {
-    front: "Interesante",
-    back: "Interesting",
   },
   {
     front: "Increíble",
@@ -1361,14 +1281,6 @@ export const vocabulary = [
   {
     front: "Asombroso",
     back: "Awesome",
-  },
-  {
-    front: "fácil",
-    back: "Easy",
-  },
-  {
-    front: "Difícil",
-    back: "Difficult",
   },
   {
     front: "Positivo",
@@ -1403,28 +1315,8 @@ export const vocabulary = [
     back: " I don't agree",
   },
   {
-    front: "Fácil",
-    back: "Easy",
-  },
-  {
-    front: "Difícil",
-    back: "Difficult",
-  },
-  {
-    front: "Rápido",
-    back: "Fast",
-  },
-  {
-    front: "Lento",
-    back: "Slow",
-  },
-  {
     front: "Fuerte",
     back: "Strong",
-  },
-  {
-    front: "Débil",
-    back: "Weak",
   },
   {
     front: "Cerca",
@@ -1447,54 +1339,6 @@ export const vocabulary = [
     back: "Independence",
   },
   {
-    front: "Enero",
-    back: "January",
-  },
-  {
-    front: "Febrero",
-    back: "February",
-  },
-  {
-    front: "Marzo",
-    back: "March",
-  },
-  {
-    front: "Abril",
-    back: "April",
-  },
-  {
-    front: "Mayo",
-    back: "May",
-  },
-  {
-    front: "Junio",
-    back: "June",
-  },
-  {
-    front: "Julio",
-    back: "July",
-  },
-  {
-    front: "Agosto",
-    back: "August",
-  },
-  {
-    front: "Septiembre",
-    back: "September",
-  },
-  {
-    front: "Octubre",
-    back: "October",
-  },
-  {
-    front: "Noviembre",
-    back: "November",
-  },
-  {
-    front: "Diciembre",
-    back: "December",
-  },
-  {
     front: "Olvidar",
     back: "Forget",
   },
@@ -1511,28 +1355,8 @@ export const vocabulary = [
     back: "Computer",
   },
   {
-    front: "Cuaderno",
-    back: "Notebook",
-  },
-  {
-    front: "Hablar",
-    back: "Speak",
-  },
-  {
-    front: "Escuchar",
-    back: "Listen",
-  },
-  {
     front: "Leer",
     back: "Read",
-  },
-  {
-    front: "Escribir",
-    back: "Write",
-  },
-  {
-    front: "Estudiar",
-    back: "Study",
   },
   {
     front: "Empujar",
@@ -1667,10 +1491,6 @@ export const vocabulary = [
   {
     front: "Sonreir",
     back: "Smile",
-  },
-  {
-    front: "Divertido",
-    back: "Funny",
   },
   {
     front: "Tranquilo",
@@ -2201,10 +2021,6 @@ export const vocabulary = [
     back: "Deforestation",
   },
   {
-    front: "Reciclar",
-    back: "Recicle",
-  },
-  {
     front: "Océano",
     back: "Ocean",
   },
@@ -2249,16 +2065,8 @@ export const vocabulary = [
     back: "Lion",
   },
   {
-    front: "Jirafa",
-    back: "Giraffe",
-  },
-  {
     front: "Guepardo",
     back: "Cheetah",
-  },
-  {
-    front: "Tigre",
-    back: "Tiger",
   },
 ];
 
