@@ -8,10 +8,6 @@ export const words_of_the_week = [
     back: "Nose",
   },
   {
-    front: "Ojo",
-    back: "Eye",
-  },
-  {
     front: "Boca",
     back: "Mouth",
   },
@@ -28,28 +24,12 @@ export const words_of_the_week = [
     back: "Neck",
   },
   {
-    front: "Pecho",
-    back: "Chest",
-  },
-  {
-    front: "Pierna",
-    back: "Leg",
-  },
-  {
     front: "Brazo",
     back: "Arm",
   },
   {
-    front: "Mano",
-    back: "Hand",
-  },
-  {
     front: "Pie",
     back: "Foot",
-  },
-  {
-    front: "Cabeza",
-    back: "Head",
   },
   {
     front: "Pecho",
@@ -60,24 +40,12 @@ export const words_of_the_week = [
     back: "Wrist",
   },
   {
-    front: "Rodilla",
-    back: "Knee",
-  },
-  {
     front: "Cejas",
     back: "Eyebrows",
   },
   {
-    front: "Mentón",
-    back: "Chin",
-  },
-  {
     front: "Hombro",
     back: "Shoulder",
-  },
-  {
-    front: "Codo",
-    back: "Elbow",
   },
   {
     front: "Estómago",
@@ -86,6 +54,202 @@ export const words_of_the_week = [
   {
     front: "Tobillo",
     back: "Ankle",
+  },
+  {
+    front: "Ojo",
+    back: "Eye",
+  },
+  {
+    front: "Pierna",
+    back: "Leg",
+  },
+  {
+    front: "Mano",
+    back: "Hand",
+  },
+  {
+    front: "Cabeza",
+    back: "Head",
+  },
+  {
+    front: "Rodilla",
+    back: "Knee",
+  },
+  {
+    front: "Mentón",
+    back: "Chin",
+  },
+  {
+    front: "Codo",
+    back: "Elbow",
+  },
+  {
+    front: "Dibujar",
+    back: "To draw",
+  },
+  {
+    front: "Desierto",
+    back: "Desert",
+  },
+  {
+    front: "Caliente",
+    back: "Hot",
+  },
+  {
+    front: "Isla",
+    back: "Island",
+  },
+  {
+    front: "Montaña",
+    back: "Mountain",
+  },
+  {
+    front: "Lleno",
+    back: "Full",
+  },
+  {
+    front: "Vacio",
+    back: "Empty",
+  },
+  {
+    front: "Pez",
+    back: "Fish",
+  },
+  {
+    front: "Río",
+    back: "River",
+  },
+  {
+    front: "Ciudad",
+    back: "City",
+  },
+  {
+    front: "Pueblo",
+    back: "Town",
+  },
+  {
+    front: "Elefante",
+    back: "Elephant",
+  },
+  {
+    front: "Delfín",
+    back: "Dolphin",
+  },
+  {
+    front: "Ártico",
+    back: "Arctic",
+  },
+  {
+    front: "Tiburón",
+    back: "Shark",
+  },
+  {
+    front: "Oso",
+    back: "Bear",
+  },
+  {
+    front: "Árbol",
+    back: "Tree",
+  },
+  {
+    front: "Bosque",
+    back: "Forest",
+  },
+  {
+    front: "Lago",
+    back: "Lake",
+  },
+  {
+    front: "Rio",
+    back: "River",
+  },
+  {
+    front: "Playa",
+    back: "Beach",
+  },
+  {
+    front: "Tierra",
+    back: "Earth",
+  },
+  {
+    front: "Agua",
+    back: "Water",
+  },
+  {
+    front: "Sabana",
+    back: "Savanna",
+  },
+  {
+    front: "Contaminación",
+    back: "Pollution",
+  },
+  {
+    front: "Lluvia",
+    back: "Rain",
+  },
+  {
+    front: "Deforestaqción",
+    back: "Deforestation",
+  },
+  {
+    front: "Reciclar",
+    back: "Recicle",
+  },
+  {
+    front: "Océano",
+    back: "Ocean",
+  },
+  {
+    front: "Planta",
+    back: "Plant",
+  },
+  {
+    front: "Camello",
+    back: "Camel",
+  },
+  {
+    front: "Coyote",
+    back: "Coyote",
+  },
+  {
+    front: "Canguro",
+    back: "Kangaroo",
+  },
+  {
+    front: "Pulpo",
+    back: "Octopus",
+  },
+  {
+    front: "Caballo de mar",
+    back: "Seahorse",
+  },
+  {
+    front: "Oso Polar",
+    back: "Polar Bear",
+  },
+  {
+    front: "Foca",
+    back: "Seal",
+  },
+  {
+    front: "Zorro Ártico",
+    back: "Artic Fox",
+  },
+  {
+    front: "León",
+    back: "Lion",
+  },
+  {
+    front: "Jirafa",
+    back: "Giraffe",
+  },
+  {
+    front: "Guepardo",
+    back: "Cheetah",
+  },
+  {
+    front: "Tigre",
+    back: "Tiger",
   },
 ];
 

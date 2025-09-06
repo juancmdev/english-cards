@@ -1860,6 +1860,406 @@ export const vocabulary = [
     front: "Hija",
     back: "Daughter",
   },
+  {
+    front: "Uno",
+    back: "One",
+  },
+  {
+    front: "Dos",
+    back: "Two",
+  },
+  {
+    front: "Tres",
+    back: "Three",
+  },
+  {
+    front: "Cuatro",
+    back: "Four",
+  },
+  {
+    front: "Cinco",
+    back: "Five",
+  },
+  {
+    front: "Seis",
+    back: "Six",
+  },
+  {
+    front: "Siete",
+    back: "Seven",
+  },
+  {
+    front: "Ocho",
+    back: "Eight",
+  },
+  {
+    front: "Nueve",
+    back: "Nine",
+  },
+  {
+    front: "Diez",
+    back: "Ten",
+  },
+  {
+    front: "Once",
+    back: "Eleven",
+  },
+  {
+    front: "Doce",
+    back: "Twelve",
+  },
+  {
+    front: "Trece",
+    back: "Thirteen",
+  },
+  {
+    front: "Catorce",
+    back: "Fourteen",
+  },
+  {
+    front: "Quince",
+    back: "Fifteen",
+  },
+  {
+    front: "Dieciséis",
+    back: "Sixteen",
+  },
+  {
+    front: "Diecisiete",
+    back: "Seventeen",
+  },
+  {
+    front: "Dieciocho",
+    back: "Eighteen",
+  },
+  {
+    front: "Diecinueve",
+    back: "Nineteen",
+  },
+  {
+    front: "Veinte",
+    back: "Twenty",
+  },
+  {
+    front: "Treinta",
+    back: "Thirty",
+  },
+  {
+    front: "Cuarenta",
+    back: "Forty",
+  },
+  {
+    front: "Cincuenta",
+    back: "Fifty",
+  },
+  {
+    front: "Sesenta",
+    back: "Sixty",
+  },
+  {
+    front: "Setenta",
+    back: "Seventy",
+  },
+  {
+    front: "Ochenta",
+    back: "Eighty",
+  },
+  {
+    front: "Noventa",
+    back: "Ninety",
+  },
+  {
+    front: "Cien",
+    back: "One hundred",
+  },
+  {
+    front: "Doscientos",
+    back: "Two hundred",
+  },
+  {
+    front: "Trescientos",
+    back: "Three hundred",
+  },
+  {
+    front: "Cuatrocientos",
+    back: "Four hundred",
+  },
+  {
+    front: "Quinientos",
+    back: "Five hundred",
+  },
+  {
+    front: "Seiscientos",
+    back: "Six hundred",
+  },
+  {
+    front: "Setecientos",
+    back: "Seven hundred",
+  },
+  {
+    front: "Ochocientos",
+    back: "Eight hundred",
+  },
+  {
+    front: "Novecientos",
+    back: "Nine hundred",
+  },
+  {
+    front: "Mil",
+    back: "Thousand",
+  },
+  {
+    front: "Cabello",
+    back: "Hair",
+  },
+  {
+    front: "Nariz",
+    back: "Nose",
+  },
+  {
+    front: "Boca",
+    back: "Mouth",
+  },
+  {
+    front: "Cara",
+    back: "Face",
+  },
+  {
+    front: "Oreja",
+    back: "Ear",
+  },
+  {
+    front: "Cuello",
+    back: "Neck",
+  },
+  {
+    front: "Brazo",
+    back: "Arm",
+  },
+  {
+    front: "Pie",
+    back: "Foot",
+  },
+  {
+    front: "Pecho",
+    back: "Chest",
+  },
+  {
+    front: "Muñeca",
+    back: "Wrist",
+  },
+  {
+    front: "Cejas",
+    back: "Eyebrows",
+  },
+  {
+    front: "Hombro",
+    back: "Shoulder",
+  },
+  {
+    front: "Estómago",
+    back: "Stomach",
+  },
+  {
+    front: "Tobillo",
+    back: "Ankle",
+  },
+  {
+    front: "Ojo",
+    back: "Eye",
+  },
+  {
+    front: "Pierna",
+    back: "Leg",
+  },
+  {
+    front: "Mano",
+    back: "Hand",
+  },
+  {
+    front: "Cabeza",
+    back: "Head",
+  },
+  {
+    front: "Rodilla",
+    back: "Knee",
+  },
+  {
+    front: "Mentón",
+    back: "Chin",
+  },
+  {
+    front: "Codo",
+    back: "Elbow",
+  },
+  {
+    front: "Dibujar",
+    back: "To draw",
+  },
+  {
+    front: "Desierto",
+    back: "Desert",
+  },
+  {
+    front: "Caliente",
+    back: "Hot",
+  },
+  {
+    front: "Isla",
+    back: "Island",
+  },
+  {
+    front: "Montaña",
+    back: "Mountain",
+  },
+  {
+    front: "Lleno",
+    back: "Full",
+  },
+  {
+    front: "Vacio",
+    back: "Empty",
+  },
+  {
+    front: "Pez",
+    back: "Fish",
+  },
+  {
+    front: "Río",
+    back: "River",
+  },
+  {
+    front: "Ciudad",
+    back: "City",
+  },
+  {
+    front: "Pueblo",
+    back: "Town",
+  },
+  {
+    front: "Elefante",
+    back: "Elephant",
+  },
+  {
+    front: "Delfín",
+    back: "Dolphin",
+  },
+  {
+    front: "Ártico",
+    back: "Arctic",
+  },
+  {
+    front: "Tiburón",
+    back: "Shark",
+  },
+  {
+    front: "Oso",
+    back: "Bear",
+  },
+  {
+    front: "Árbol",
+    back: "Tree",
+  },
+  {
+    front: "Bosque",
+    back: "Forest",
+  },
+  {
+    front: "Lago",
+    back: "Lake",
+  },
+  {
+    front: "Rio",
+    back: "River",
+  },
+  {
+    front: "Playa",
+    back: "Beach",
+  },
+  {
+    front: "Tierra",
+    back: "Earth",
+  },
+  {
+    front: "Agua",
+    back: "Water",
+  },
+  {
+    front: "Sabana",
+    back: "Savanna",
+  },
+  {
+    front: "Contaminación",
+    back: "Pollution",
+  },
+  {
+    front: "Lluvia",
+    back: "Rain",
+  },
+  {
+    front: "Deforestaqción",
+    back: "Deforestation",
+  },
+  {
+    front: "Reciclar",
+    back: "Recicle",
+  },
+  {
+    front: "Océano",
+    back: "Ocean",
+  },
+  {
+    front: "Planta",
+    back: "Plant",
+  },
+  {
+    front: "Camello",
+    back: "Camel",
+  },
+  {
+    front: "Coyote",
+    back: "Coyote",
+  },
+  {
+    front: "Canguro",
+    back: "Kangaroo",
+  },
+  {
+    front: "Pulpo",
+    back: "Octopus",
+  },
+  {
+    front: "Caballo de mar",
+    back: "Seahorse",
+  },
+  {
+    front: "Oso Polar",
+    back: "Polar Bear",
+  },
+  {
+    front: "Foca",
+    back: "Seal",
+  },
+  {
+    front: "Zorro Ártico",
+    back: "Artic Fox",
+  },
+  {
+    front: "León",
+    back: "Lion",
+  },
+  {
+    front: "Jirafa",
+    back: "Giraffe",
+  },
+  {
+    front: "Guepardo",
+    back: "Cheetah",
+  },
+  {
+    front: "Tigre",
+    back: "Tiger",
+  },
 ];
 
 function shuffleArray(array) {
