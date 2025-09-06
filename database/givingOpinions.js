@@ -70,3 +70,132 @@ fa_arrows_rotate.addEventListener("click", () => {
 // // Inicialización
 // displayPage(currentPage);
 // createPaginationControls();
+
+// {
+//   front: "Amazonas",
+//   back: "Leticia",
+// },
+// {
+//   front: "Antioquia",
+//   back: "Medellín",
+// },
+// {
+//   front: "Arauca",
+//   back: "Arauca",
+// },
+// {
+//   front: "Atlántico",
+//   back: "Barranquilla",
+// },
+// {
+//   front: "Bolívar",
+//   back: "Cartagena de Indias",
+// },
+// {
+//   front: "Boyacá",
+//   back: "Tunja",
+// },
+// {
+//   front: "Caldas",
+//   back: "Manizales",
+// },
+// {
+//   front: "Caquetá",
+//   back: "Florencia",
+// },
+// {
+//   front: "Casanare",
+//   back: "Yopal",
+// },
+// {
+//   front: "Cauca",
+//   back: "Popayán",
+// },
+// {
+//   front: "Cesar",
+//   back: "Valledupar",
+// },
+// {
+//   front: "Chocó",
+//   back: "Quibdó",
+// },
+// {
+//   front: "Córdoba",
+//   back: "Montería",
+// },
+// {
+//   front: "Cundinamarca",
+//   back: "Bogotá",
+// },
+// {
+//   front: "Guainía",
+//   back: "Puerto Inírida",
+// },
+// {
+//   front: "Guaviare",
+//   back: "San José del Guaviare",
+// },
+// {
+//   front: "Huila",
+//   back: "Neiva",
+// },
+// {
+//   front: "La Guajira",
+//   back: "Riohacha",
+// },
+// {
+//   front: "Magdalena",
+//   back: "Santa Marta",
+// },
+// {
+//   front: "Meta",
+//   back: "Villavicencio",
+// },
+// {
+//   front: "Nariño",
+//   back: "Pasto",
+// },
+// {
+//   front: "Norte de Santander",
+//   back: "Cúcuta",
+// },
+// {
+//   front: "Putumayo",
+//   back: "Mocoa",
+// },
+// {
+//   front: "Quindío",
+//   back: "Armenia",
+// },
+// {
+//   front: "Risaralda",
+//   back: "Pereira",
+// },
+// {
+//   front: "San Andrés y Providencia",
+//   back: "San Andrés",
+// },
+// {
+//   front: "Santander",
+//   back: "Bucaramanga",
+// },
+// {
+//   front: "Sucre",
+//   back: "Sincelejo",
+// },
+// {
+//   front: "Tolima",
+//   back: "Ibagué",
+// },
+// {
+//   front: "Valle del Cauca",
+//   back: "Cali",
+// },
+// {
+//   front: "Vaupés",
+//   back: "Mitú",
+// },
+// {
+//   front: "Vichada",
+//   back: "Puerto Carreño",
+// },

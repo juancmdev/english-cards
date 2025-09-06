@@ -1,4 +1,4 @@
-import { givingOpinions } from "../database/givingOpinions.js";
+import { givingOpinions, prueba } from "../database/givingOpinions.js";
 
 const lista = document.querySelector("#lista-givingOptions");
 console.log(lista);
@@ -8,7 +8,7 @@ console.log(template);
 
 const fragment = document.createDocumentFragment();
 
-givingOpinions.forEach((option) => {
+prueba.forEach((option) => {
   template.querySelector(".lista .card .front h2").textContent = option.front;
   template.querySelector(".lista .back h2").textContent = option.back;
 
