@@ -471,7 +471,7 @@ export const vocabulary = [
     back: "Purple",
   },
   {
-    front: "Rosdo",
+    front: "Rosado",
     back: "Pink",
   },
   {
