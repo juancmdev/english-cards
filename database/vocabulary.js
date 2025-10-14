@@ -687,8 +687,8 @@ export const vocabulary = [
     back: "Crab",
   },
   {
-    front: "Langosta o bogavante",
-    back: "Lobster or Crayfish",
+    front: "Langosta",
+    back: "Lobster",
   },
   {
     front: "Barba",
